@@ -1,0 +1,1331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lovers logick: or, logical-love Compos'd in French by Monsieur de Callieres junior. And now newly translated into English. Licensed Sep. 21 1669. Roger L'Estrange.</title>
+            <author>Callières, Monsieur de (François de), 1645-1717.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 52 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79208</idno>
+            <idno type="STC">Wing C300A</idno>
+            <idno type="STC">ESTC R229495</idno>
+            <idno type="EEBO-CITATION">99899225</idno>
+            <idno type="PROQUEST">99899225</idno>
+            <idno type="VID">152590</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79208)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152590)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2307:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lovers logick: or, logical-love Compos'd in French by Monsieur de Callieres junior. And now newly translated into English. Licensed Sep. 21 1669. Roger L'Estrange.</title>
+                  <author>Callières, Monsieur de (François de), 1645-1717.</author>
+               </titleStmt>
+               <extent>[16], 87, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for George Palmer at the Black Spread Eagle without Temple-Bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Love --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="to_the_reader">
+            <pb facs="tcp:152590:1" rendition="simple:additions"/>
+            <pb facs="tcp:152590:1" rendition="simple:additions"/>
+            <head>The <hi>Author</hi> to the <hi>Reader.</hi>
+            </head>
+            <p>THE Compoſing of a <hi>Book</hi> is not ſufficient to intitle a perſon to the venerable name of <hi>Au<g ref="char:EOLhyphen"/>thor;</hi> there muſt alſo be a <hi>Preface</hi> contrived, or ſomething of that nature, by which <hi>Advertiſement</hi> the <hi>Reader</hi> is to under<g ref="char:EOLhyphen"/>ſtand, that he appears in <hi>print</hi> at the ſollicitation of
+<pb facs="tcp:152590:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:152590:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:152590:3"/>ſome conſiderable perſons, who compelled him to pu<g ref="char:EOLhyphen"/>bliſh his <hi>Treatiſe,</hi> contra<g ref="char:EOLhyphen"/>ry to his intention; or elſe, that it was occaſioned by the deceit of ſome <hi>Friend,</hi> which by making the <hi>Pre<g ref="char:EOLhyphen"/>amble</hi> in his name or that of the <hi>Bookſeller,</hi> is a ſuf<g ref="char:EOLhyphen"/>ficient Juſtification. Af<g ref="char:EOLhyphen"/>ter he hath with affecta<g ref="char:EOLhyphen"/>tion taken upon him this counterfeit kind of mode<g ref="char:EOLhyphen"/>ſty, and laviſh'd his whole ſtock of <hi>Rhetorick,</hi> to move the <hi>Reader</hi> to that which
+<pb facs="tcp:152590:3"/>he takes leaſt notice of, he endeavours to captivate his benevolence, and ſo running from one extreme to the other, the <hi>Author</hi> uſually perſwades him be<g ref="char:EOLhyphen"/>fore hand, by the Elogies he himſelf beſtows upon the product of his own brain, or which he makes his Copartners place at the front of his <hi>Book,</hi> what an eſtimate he ought to put upon the <hi>work</hi> he expo<g ref="char:EOLhyphen"/>ſeth to publick view. Theſe authoritative <hi>Cu<g ref="char:EOLhyphen"/>ſtoms</hi>
+               <pb facs="tcp:152590:4"/>are ſo <hi>modiſh,</hi> that he ſeems to intrench upon the Privileges of <hi>Parnaſ<g ref="char:EOLhyphen"/>ſus,</hi> that is inclinable to deviate from them. Now if Authors do ſo confident<g ref="char:EOLhyphen"/>ly aſſume the Liberty of expatiating in their own commendation, the Rea<g ref="char:EOLhyphen"/>ders will take as much privilege in criticiſing; and we may ſafely ſay that there never was any Book extant, but had it's cen<g ref="char:EOLhyphen"/>ſures and cenſors. It ſeems that the <hi>Major</hi> part
+<pb facs="tcp:152590:4"/>of mankind, think them<g ref="char:EOLhyphen"/>ſelves unworthy the Title of <hi>Virtuoſi,</hi> if they are not ſo induſtrious as to build up their own esteem at the expence of thoſe that write, and eſtabliſh the reputation of their Judgment, by ſome ſhaking nod, or being critical in word or thought: most things in the World de<g ref="char:EOLhyphen"/>pend upon opinion ſome<g ref="char:EOLhyphen"/>times well, ſometimes il<g ref="char:EOLhyphen"/>grounded; every one ſtu<g ref="char:EOLhyphen"/>dies to make himſelf fa<g ref="char:EOLhyphen"/>mous,
+<pb facs="tcp:152590:5"/>and it frequently happens, that ſome well-worded expreſſions ap<g ref="char:EOLhyphen"/>plauded, or ſome kind of raillerie neatly perform'd, is more advantageous to the Author, than the pro<g ref="char:EOLhyphen"/>duct of a ſolid Judgment married to a cleanly and curious Wit. And as re<g ref="char:EOLhyphen"/>pute is gain'd but by the applauſe of a great num<g ref="char:EOLhyphen"/>ber of people, ſo the ſuc<g ref="char:EOLhyphen"/>ceſs is uſually very uncer<g ref="char:EOLhyphen"/>tain, being ſubject to the capricio as well as the
+<pb facs="tcp:152590:5"/>Judgment of this multi<g ref="char:EOLhyphen"/>tude; beſides there is a certain kind of malignity in moſt men proceeding from inordinate ſelf-love, that hinders them from praiſing any thing in other men, unleſs they can heighten their own com<g ref="char:EOLhyphen"/>mendation thereby, and hurries them on with de<g ref="char:EOLhyphen"/>light to the contempt and cenſure of all things that are not their own producti<g ref="char:EOLhyphen"/>on. This manner of pro<g ref="char:EOLhyphen"/>ceeding is not wholly ta<g ref="char:EOLhyphen"/>ken
+<pb facs="tcp:152590:6"/>up with the Iſſue of the mind, but extends to all human actions, and you ſcarce ever met with any, though never ſo much ad<g ref="char:EOLhyphen"/>dicted to vain-glory, that were univerſally approv'd of. I do not pretend, Rea<g ref="char:EOLhyphen"/>der, by my diſcourſe here to divert you from cenſu<g ref="char:EOLhyphen"/>ring this ſmall Treatiſe; I am abſolutely perſwa<g ref="char:EOLhyphen"/>ded, that to court you to be favourable to me, (unleſs your diſpoſition inclines you thereunto) is but labour loſt
+<pb facs="tcp:152590:6"/>for let me ſay what I can, you will notwithſtanding determine with abſolute authority. Yet I muſt ad<g ref="char:EOLhyphen"/>vertiſe you, becauſe I have ſpoken of malignity in the judgment of ſome men, I meant that diſcourſe only of that ſort of people who are perpetually judging and cenſuring, and who en<g ref="char:EOLhyphen"/>deavour to ſhroud the im<g ref="char:EOLhyphen"/>becillity of their own un<g ref="char:EOLhyphen"/>derſtanding, under the au<g ref="char:EOLhyphen"/>thority they ſo imperiouſly aſſume to decide all contro<g ref="char:EOLhyphen"/>verſies,
+<pb facs="tcp:152590:7"/>who if they would undertake to enter the Liſt, and ſhew what they are capable of performing, would become an object of deriſion to the whole world. I know there are others, who by ſubtle and curious judgment look upon all things judiciouſly, and without pre-occupation, who freely praiſe what me<g ref="char:EOLhyphen"/>rits applauſe, and ſpeak modeſtly of that which hath had the ill fortune to diſ<g ref="char:EOLhyphen"/>pleaſe them, theſe are the
+<pb facs="tcp:152590:7"/>perſons with whom I deſire to ingratiate my ſelf, by in<g ref="char:EOLhyphen"/>forming them what motives I had to preſent my <hi>Logi<g ref="char:EOLhyphen"/>cal-Love</hi> unto them: I muſt acquaint you there<g ref="char:EOLhyphen"/>fore, if you are in the num<g ref="char:EOLhyphen"/>ber of thoſe rational and re<g ref="char:EOLhyphen"/>fined underſtandings, to whom I addreſs my ſelf, that it was my perſwaſion, there was no better way to create a deſire of learning <hi>Logick</hi> in thoſe that are ig<g ref="char:EOLhyphen"/>norant of that Art, than by facilitating her rudiments
+<pb facs="tcp:152590:8"/>which are knotty to young <hi>Tyro</hi>'s, and familiarly ac<g ref="char:EOLhyphen"/>quainting them with thoſe crabbed words of <hi>Catego<g ref="char:EOLhyphen"/>ries, Univerſals,</hi> and <hi>Syl<g ref="char:EOLhyphen"/>logiſms,</hi> by the applicati<g ref="char:EOLhyphen"/>on I make of them to the moſt delightful Subject in the World, which indiſpu<g ref="char:EOLhyphen"/>tably, is that of <hi>Love:</hi> you are now about to take a view of this Art, which comprehends all Subjects, enveloped in thoſe that con<g ref="char:EOLhyphen"/>cern this paſſion; and I must farther inform you,
+<pb facs="tcp:152590:8"/>that as this Subject is of it ſelf too barren to be neatly handled thorough all it's parts, I thought I might take the liberty ſometimes to ſtep a little aſide, provided, I did not ſtray ſo far as to go quite out of my road, into which I conſtantly endeavour to return; and that I might have the ſame privilege as to the matter of <hi>Logick,</hi> as the Authors of <hi>Roman<g ref="char:EOLhyphen"/>ces</hi> have in matter of Hi<g ref="char:EOLhyphen"/>ſtory, who though they
+<pb facs="tcp:152590:9"/>ſtick cloſe to her in the principal events, yet of<g ref="char:EOLhyphen"/>ten take the liberty to em<g ref="char:EOLhyphen"/>broyder it with their own inventions, which are per<g ref="char:EOLhyphen"/>tinent to the Subject in hand. 'Tis now your part to judge whether I have well or ill managed the de<g ref="char:EOLhyphen"/>ſign which I propos'd.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152590:9"/>
+            <head>THE Lovers Logick: OR, LOGICAL-LOVE.</head>
+            <div type="part">
+               <head>Love diſcourſing to his Pupils.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Art that I have undertaken to teach you, moſt Generous Off-ſpring, who pro<g ref="char:EOLhyphen"/>feſs your ſelves my fol<g ref="char:EOLhyphen"/>lowers, requires no great ſtudy, nor labo<g ref="char:EOLhyphen"/>rious toil. The ſympathy I have lodg'd in your hearts, in beſtowing a being upon you,
+<pb n="2" facs="tcp:152590:10"/>inclines you ſufficiently to receive my in<g ref="char:EOLhyphen"/>ſtructions; and Nature her ſelf is not backward in acquainting you with the pleaſures that I confer upon all my Pupils. This prudent Mother placeth you under my conduct, as ſoon as you are capable of underſtanding me, and you no ſooner are acquainted with me, but you take great delight in following me, and heark<g ref="char:EOLhyphen"/>ning to my inſtructions. For the reſt, as I am a Beardleſs Philoſopher, ſo I muſt have youthful Pupils, not that I deſire to expel thoſe that are ſomewhat more ad<g ref="char:EOLhyphen"/>vanc'd in yeers from my School; but I muſt let them underſtand, that though they are as capable of my Doctrine, as thoſe that are young; they are not in a condition to make ſo great an improvement thereby; in this their experience is offenſive to them, and the number of their years, tends only to the abatement of their felicity. All things appear in their ſeaſon, the Flowers budding forth in the ſpring, and my joys are taſted in youth; 'tis only therefore to you that enjoy it, that I am preparing to read my Lectures, as perſons
+<pb n="3" facs="tcp:152590:10"/>capable of making greater advantages thereby. And as I am not ignorant, that in this age there are many Learned Wo<g ref="char:EOLhyphen"/>men, who take upon them to Philoſo<g ref="char:EOLhyphen"/>phize, I ſhall not ſcruple to make uſe of the ordinary terms of Philoſophy, and in my Precepts to reſemble her's as neer as I can poſſibly. I will therefore begin my Logick with the Definition thereof.</p>
+               <p>
+                  <hi>The Lovers Logick is the Art of diſcern<g ref="char:EOLhyphen"/>ing true Love from that which is counter<g ref="char:EOLhyphen"/>feit, and of arguing exactly upon all things that may befal them.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of Amorous conceptions.</head>
+               <p>YOu muſt underſtand that man never really loves, unleſs the Object that is capable of creating it be preſented to his ſight. Some there are that have been inamour'd by hearing, others by touch<g ref="char:EOLhyphen"/>ing, but that is of no continuance, unleſs confirm'd by ſeeing. Then this very Senſe is the Porter that gives me entrance into the heart; 'tis by theſe two windows of the Soul that I am inrroduced to co-habit
+<pb n="4" facs="tcp:152590:11"/>with her: not but that the other Senſes afford me their aſſiſtance, but I muſt firſt enter by the eye. And to the end that this paſſage may lie open to me, and that I may without difficulty gain my deſign of the reſt, I muſt be accompanied with a certain Gentlewoman, whom they call Wealth. But when I am deſtitute of this Piloteſs, I have much ado to cruze about with all the craft I am Maſter of: I find it difficult to paſs; nay, when I am juſt up<g ref="char:EOLhyphen"/>on my entrance into a heart, I am often<g ref="char:EOLhyphen"/>times repuls'd, if the Lady Wealth doth not accompany me: all that I can do to preſerve my ſelf when I am deſtitute of her company, is to ſtrike a League with Wit. It is a Youth well ſhap'd as to his Perſon, acceptable in Society, and who is author of rate Compoſitions as well in Verſe as Proſe; he hath always a kind reception in all good company; he under<g ref="char:EOLhyphen"/>ſtands how to gain eſteem among people of the greateſt integrity, and doth alſo ſuc<g ref="char:EOLhyphen"/>ceed indifferently in obtaining the favour of women; but when Wealth is at a di<g ref="char:EOLhyphen"/>ſtance with Wit, it ſo falls out ſome<g ref="char:EOLhyphen"/>times,
+<pb n="5" facs="tcp:152590:11"/>that he is deſpis'd. She is an ar<g ref="char:EOLhyphen"/>rogant Baggage, who is accuſtomed to treat all thoſe unhandſomly, ſhe is unac<g ref="char:EOLhyphen"/>quainted with: Proſperity her uſual companion, ſwells her exceſſively with pride, and makes her carriage inſuppor<g ref="char:EOLhyphen"/>table to good people. She will often play at foot-ball with Wit and Deſert, and raiſe up ignorance and ſtupidity. In fine, ſhe values none but thoſe that enjoy her, unleſs ſhe be attended by vertue.</p>
+               <p>I give you here a deſcription of their Qualities that you may know how to ap<g ref="char:EOLhyphen"/>propriate them; but though the Qualifi<g ref="char:EOLhyphen"/>cations of Wit are far more noble than thoſe of Wealth, yet for all that, they are not ſo advantageous: for in the age where<g ref="char:EOLhyphen"/>in we live, her treaſures caſt a miſt before the eyes of all perſons in the world; but when we meet all three together, and that we proceed unanimouſly, we make a great progreſs in a little time, and ſcarce encounter any heart that reſiſts. There is another great Youth known by the name of Good-face, the Brother of Beauty, whoſe ſociety is of very advantagious to me;
+<pb n="6" facs="tcp:152590:12"/>'tis he that opens the doors of the eyes, and cauſeth his Daughter Idaea to enter with me: they are as like one another, as two drops of water, in ſo much that he be<g ref="char:EOLhyphen"/>ing abſent, ſhe ſupplies her Father's place.</p>
+               <p>This ingenious Idaea lets ſlip no oppor<g ref="char:EOLhyphen"/>tunity of ſpeaking well of him that gave her being, ſhe many times entertains the Lady with whom ſhe ſojourneth, with the paſſion that he hath for her, and puts her in mind of thoſe delightful minutes that ſhe enjoyed by his converſation. Whileſt ſhe is young, ſhe is very ſervicea<g ref="char:EOLhyphen"/>able to him, but when ſhe grows in years, ſhe is not ſo ſollicitous. She doth not then ſo often entertain her Miſtreſs; ſhe appears but ſeldom in her ſight; ſhe begins to ſeem leſs obliging; and is at length expell'd by ſome other perſon, if not ſpeedily aſſiſted by the preſence of the Lover.</p>
+               <p>How deep ſoever the impreſſion be ſhe made in the heart; abſence will ſoon wipe it away; that which muſt be done to con<g ref="char:EOLhyphen"/>tinue it freſh a little longer, is to ſummon Nature to the aſſiſtance of Art; and this
+<pb n="7" facs="tcp:152590:12"/>is practic'd ſeveral ways. Firſt, let the ac<g ref="char:EOLhyphen"/>compliſht Lover endeavor to gain his Mi<g ref="char:EOLhyphen"/>ſtreſs Picture, and that afterwards he per<g ref="char:EOLhyphen"/>ſwade her to accept of his.</p>
+               <p>Though the Portraictures of theſe Lo<g ref="char:EOLhyphen"/>vers are dumb, yet they entertain them ve<g ref="char:EOLhyphen"/>ry pleaſantly. But there is another kind of ſpeaking-Picture, that is more effectu<g ref="char:EOLhyphen"/>al; this ſoftens the rigors endur'd by ab<g ref="char:EOLhyphen"/>ſence, by complaining of thoſe evils which ſhe cauſeth them to ſuffer: ſhe ſpeaks without a mouth, and is underſtood from the remoteſt parts. It is ſhe that ſerves as fuel to the fire that I have kindled reci<g ref="char:EOLhyphen"/>procally in two hearts; 'tis ſhe that links them together inviſibly by a chain, which time it ſelf can hardly break.</p>
+               <p>There are two ſorts of ſpeaking, as well as of dumb painting; the one called Proſe, the other Poetry; this latter reſem<g ref="char:EOLhyphen"/>bles Miniature, which is far more de<g ref="char:EOLhyphen"/>lightful than the other, when well com<g ref="char:EOLhyphen"/>pos'd; but the eye of the underſtanding muſt be very ſharp-ſighted that can prompt you to give judgment thereupon; therefore it is prudence in the Painter not
+<pb n="8" facs="tcp:152590:13"/>to expoſe it to the view of all perſons. Now the Lover muſt be ſatisfied that his Lady is ingenious, before he pre<g ref="char:EOLhyphen"/>ſent her with a Copy of Verſes, that ſhe may not miſtake his witty Sonnets, and paſſionate Stanzas for Ballads: but, as of<g ref="char:EOLhyphen"/>ten in this kind of Language, they aban<g ref="char:EOLhyphen"/>don their reaſon to catch at the Rhythme; and that they many times ſay more, ſome<g ref="char:EOLhyphen"/>times leſs than they deſire; the uſe hereof will not prove effectual. Not but that Poetry enjoys many Priviledges which Proſe is deny'd; and that you may ex<g ref="char:EOLhyphen"/>preſs your love to a fair Lady in Verſe, which cannot be ſo freely done in Proſe; for there you muſt take a greater com<g ref="char:EOLhyphen"/>paſs, and above all, be ſure at the firſt, you mention not my name. Women do obſerve this kind of foppery among them<g ref="char:EOLhyphen"/>ſelves, and fein a diſpleaſure when they hear me nam'd, though they lodge me in their heart, with the greateſt joy imagi<g ref="char:EOLhyphen"/>nable: when I am entred, I cannot forbear ſmiling to ſee all the cloſe-ſtool faces they make, to conceal me; but 'tis to no pur<g ref="char:EOLhyphen"/>poſe; for I am ſeldome long in a place,
+<pb n="9" facs="tcp:152590:13"/>before I am diſcover'd. The way to di<g ref="char:EOLhyphen"/>vine it is, for a Lover to ſtrive to diſcover by ſome ſhe-ſervant upon whom he muſt exerciſe his liberality or elſe ſome ſhe-Confident whom he muſt make his friend, whether ſhe often diſcourſeth of him: he may alſo deſire one of his moſt intimate friends to ſpeak ſomewhat amiſs of him before his Miſtreſs, yet ſo, that it may no way blaſt his Reputation, to ſee with what heat ſhe will maintain his concerns; and if ſhe be ſo cunning as to ſay nothing <hi>Pro</hi> or <hi>Contra;</hi> let them obſerve the Aer of her Countenance, which undoubtedly carries leſs diſſimulation with it than the tongue; 'tis ſhe that oftentimes publiſheth the moſt myſterious ſecrets of the heart, whoſe comply ruddineſs diſcovers my flames, which they with ſo much pains endea<g ref="char:EOLhyphen"/>vour to keep ſecret.</p>
+               <p>Indeed 'tis natural to the fair to bluſh, when they hear a Perſon that is dear to them diſcours'd of; and though they ſtand upon their guard, this petty acci<g ref="char:EOLhyphen"/>dent uſually happens as ſoon as that rud<g ref="char:EOLhyphen"/>dineſs begins to riſe in the face the ſhame
+<pb n="10" facs="tcp:152590:14"/>that they apprehend will attend them in the diſcovery, forceth them to bluſh the more, and appears with the greater luſtre. Let not then the Lover doubt of his being belov'd when this accident hap<g ref="char:EOLhyphen"/>pens upon his occaſion; but, if poſſible, let him endeavour to make a diſcovery in his own perſon of what is ſuffered for him, and not rely too much upon his friend.</p>
+               <p>To Court by Embaſſadors and Proxies belongs only to Kings and Princes; be<g ref="char:EOLhyphen"/>ſides, a Lover is more Eagle-ey'd in that which concerns him ſo nearly, than a ſe<g ref="char:EOLhyphen"/>cond perſon, that hath but a ſlender inter<g ref="char:EOLhyphen"/>eſt; he muſt always in matters of this moment ſuſpect the moſt faithful, and be<g ref="char:EOLhyphen"/>lieve nothing but his own eyes. The beſt friend in the world, loves himſelf better than you, and if he find himſelf ſmitten with the ſame paſſion, he will make no ſcruple to dethrone you out of the heart of your Miſtreſs, that he may reign there. Such Treachery as this, is the pro<g ref="char:EOLhyphen"/>duct of every day the whole world over, becauſe not foreſeen: and when they re<g ref="char:EOLhyphen"/>ſolve
+<pb n="11" facs="tcp:152590:14"/>to follow me, there are few perſons who ſtand upon their honour ſo much, as not to violate their faith to their friends.</p>
+               <p>Hence ariſe the greateſt diſorders and and moſt irreconcileable enmities; but this would force me beſide my ſubject, there<g ref="char:EOLhyphen"/>fore I will treat of this matter more ex<g ref="char:EOLhyphen"/>actly, when I have given it a proper place; and having ſufficiently explain'd this firſt Chapter of Conceptions, which will ſerve to let you know how I get into the heart; we will paſs to the Categories or Praedi<g ref="char:EOLhyphen"/>caments. Logick uſually makes Ten: which are <hi>Subſtance, Quantity, Quality, Relation, Action, Paſſion, Where, When, Si<g ref="char:EOLhyphen"/>tuation</hi> and <hi>Habit.</hi> And I for my part lay down five that are Principal, with their contraries, which make the ſame num<g ref="char:EOLhyphen"/>ber.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>viz.</cell>
+                        <cell>Their contraries are:</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Beauty.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Deformity.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Wealth.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Poverty.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Youth.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Old age.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Gallantry.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Clowniſhneſs.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Wit.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Stupidity.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="12" facs="tcp:152590:15"/>
+               <p> Which you may make uſe of in the framing of all ſorts of Propoſitions both affirmitive and negative, that conduce to the diſtinguiſhing of true Love from that which is falſe.</p>
+            </div>
+            <div type="part">
+               <head>The Definition of Beauty. Of Subſtance.</head>
+               <p>BEauty is a Subſtance and perfect be<g ref="char:EOLhyphen"/>ing, the ſubject and ſupport without which I cannot long ſubſiſt in any one place whatſoever. There are two ſorts of Beauty, <hi>viz.</hi> Immaterial and Material: the former belongs to the Soul, and the latter is lincked to the Body: the one comprehends all the vertues, and good inclinations, that are capable of attra<g ref="char:EOLhyphen"/>cting Love; and the other c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntains the Symmetry of proportion, the luſtre of Complexion, and the comelineſs of Sta<g ref="char:EOLhyphen"/>ture, ſome add the Action; but that is in the ſame ſenſe under the Juriſdiction of the mind. As there are an infinite num<g ref="char:EOLhyphen"/>ber of Beauties, compriſed under this di<g ref="char:EOLhyphen"/>diviſion,
+<pb n="13" facs="tcp:152590:15"/>ſo are the Subjects infinite, that are capable of creating love; ſome per<g ref="char:EOLhyphen"/>ſons are captivated with the beauties of the Soul, and others enchain'd to thoſe of the body; but ſince theſe laſt exceed the firſt in number, I will make a more ſtrict examination, and exact diviſion of them than the other.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The Diviſion of</hi> Immaterial Beauties.</head>
+               <list>
+                  <item>
+                     <hi>Magnanimity.</hi>
+                  </item>
+                  <item>
+                     <hi>Generoſity.</hi>
+                  </item>
+                  <item>
+                     <hi>Gratitude.</hi>
+                  </item>
+                  <item>
+                     <hi>Senſibility.</hi>
+                  </item>
+                  <item>
+                     <hi>Conſtancie.</hi>
+                  </item>
+                  <item>
+                     <hi>Liberality.</hi>
+                  </item>
+                  <item>
+                     <hi>Complaiſance.</hi>
+                  </item>
+                  <item>
+                     <hi>Fidelity.</hi>
+                  </item>
+                  <item>
+                     <hi>Tenderneſs.</hi>
+                  </item>
+               </list>
+               <p>To theſe are added the accompliſh<g ref="char:EOLhyphen"/>ments of the Voice, which participates of both.</p>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:152590:16"/>
+               <head>The <hi>Material</hi> are:</head>
+               <p>A Smooth Complexion, white and red, and each colour be truly pla<g ref="char:EOLhyphen"/>ced, and loſe themſelves imperceptibly the one in the other; which ſome Ladies would expreſs by the new French Phraſe, <hi>demeſlee.</hi>
+               </p>
+               <p>Full Eyes, well made of a dark or black colour, graceful and caſting a lu<g ref="char:EOLhyphen"/>ſtre.</p>
+               <p>A Noſe well made, neither too big, nor too ſmall.</p>
+               <p>A little Mouth, the upper-Lip reſem<g ref="char:EOLhyphen"/>bling a Heart in ſhape, and the under ſomewhat larger, but both of a vermilion colour, as well in Winter as Summer: and on each ſide two ſmall dimples eaſily to be diſcern'd in their moving up<g ref="char:EOLhyphen"/>wards, which look like a kind of conſtant ſmile.</p>
+               <p>White Teeth, very clean, well ranged in order, of an equal bigneſs, neither ſhort nor long, but very cloſe ſet.</p>
+               <pb n="15" facs="tcp:152590:16"/>
+               <p> A forked Chin, not too ſhort nor too long, and hanging double.</p>
+               <p>A full, round, or oval Viſage.</p>
+               <p>The Temples high rais'd.</p>
+               <p>As for the colour of the Hair, opini<g ref="char:EOLhyphen"/>ons are various.</p>
+               <lg>
+                  <l>
+                     <hi>One the fair hair, another brown admires,</hi>
+                  </l>
+                  <l>A <hi>third a colour between both deſires,</hi>
+                  </l>
+                  <l>
+                     <hi>But herein all concentre and do reſt,</hi>
+                  </l>
+                  <l>
+                     <hi>The colour o'th' lov'd object is the beſt.</hi>
+                  </l>
+               </lg>
+               <p>Therefore 'tis indifferent to me which of the three they be, provided the Hair be very long, and thick, looſe, cleanly kept, and a very little frizz'd or curl'd in rings; but above all that it be not red, nor come near that tincture. For it were diſ<g ref="char:EOLhyphen"/>advantageous to them to have all the o<g ref="char:EOLhyphen"/>ther ſpecies of Beauty, if they are of that colour, I have a natural antipathy againſt it, inſomuch, that I oftentimes betake my ſelf to my heels, when I ſpy it: not but they are uſually accompanied with a pure skin, for which I have a great inclination; but the averſion I have for the one, makes
+<pb n="16" facs="tcp:152590:17"/>me ſometimes abandon the other.</p>
+               <p>All the remedy that can be is to deceive me at the firſt, by ſhaving off all the Hair, or by an induſtrious concealment of them, ſhew me thoſe that are of another colour: and as they are purchaſed, you may have thoſe that are moſt curious, and of what colour you deſire; but this fool<g ref="char:EOLhyphen"/>iſh kind of diſguiſe is ſufficiently practis'd in this age, ſo that I need not put my ſelf to the trouble of inſtructing it; and I have been ſo often deceiv'd, that it is now a buſineſs of no ſmall difficulty to ſurprize me: my diffidence makes me oftentimes miſtake natural for artificial Hair; far from taking the artificial for thoſe that are natural; their extraordinary comlineſs renders them ſuſpected, eſpecially among Ladies of Quality, although Nature de<g ref="char:EOLhyphen"/>nies it to them, no more than to the moſt innocent Shepherdeſs. But in this age Art carries ſo great a ſway in the Macrocoſm, that I miſtruſt all.</p>
+               <p>Nay, the very men that I have ſeen im<g ref="char:EOLhyphen"/>pudently maſque themſelves, for ſo term the light colour'd Hair of thoſe that are na<g ref="char:EOLhyphen"/>turally
+<pb n="17" facs="tcp:152590:17"/>black. But to return to the Ladies, to whom beauty <hi>de jure</hi> belongs, I am ac<g ref="char:EOLhyphen"/>quainted with ſome who by their damned Art deſtroy the moſt beautiful works of Nature.</p>
+               <p>I am ſometimes ſo incenſed againſt them, that I have a great mind to put an affront upon them; and I have a kind of itching deſire to go and rub their cheeks with the little end of my, to give men to underſtand the artifices wherewith they endeavour to abuſe them. For I phancie no beauty but what is natural, which I have framed; and am an ene<g ref="char:EOLhyphen"/>my to thoſe kind of diſguiſes, that in vain ſtrive to imitate the naturals. But as the Lover cannot take the ſame liberty, that my abſolute Empire over all that is beau<g ref="char:EOLhyphen"/>tiful furniſheth me with, to reform all abuſes that are committed; that which he may do, is to take the Lady he waits upon, and ſuſpects to be guilty of ſuch artifice, when ſhe riſeth out of her bed. 'Tis then that the paint-box hath not as yet plaid its part, unleſs by a neat fore<g ref="char:EOLhyphen"/>ſight ſhe made uſe of it the laſt night. In
+<pb n="18" facs="tcp:152590:18"/>this caſe he muſt addreſs himſelf to the waiting Gentle-woman, as to an Oracle, that can only clear all his doubts. But if he will oblige her to relate the truth, he muſt open his purſe, for that incloſeth the moſt myſterious ſecrets. He ſhall no ſooner produce certain Gueſts, that dwell there, which they call <hi>Guinnies,</hi> but they will unriddle him the moſt obſcure <hi>aenig<g ref="char:EOLhyphen"/>mas,</hi> not only upon this, but any other ſubject whatſoever, that his curioſity prompts him to underſtand. But ſince we have not examined all the natural beau<g ref="char:EOLhyphen"/>ties, let us leave thoſe that are artificial, and return to what remains.</p>
+               <p>After the Face the Neck, Armes and Hands fall under our conſideration; which ſome <hi>Buffoons</hi> have called <hi>la petite Oye:</hi> though their beauty is inferiour to what we have already deſcribed, ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they produce ſometimes ſtrange effects, and there is no heart that can reſiſt the charms of a fair Neck, when ſhe ſatiates your eye with beholding: thoſe graceful Apples which they bear inflames the hearts of thoſe that are moſt inſenſible.
+<pb n="19" facs="tcp:152590:18"/>Theſe two fruits are ſo lovely, that a perſon is ready to die with a deſire of approaching with the mouth to taſt them: and is ſenſible of a pleaſant convulſion, when he doth but graſp them in his hand. In fine they are capable of creating my content, but never to ſatiate me.</p>
+               <lg>
+                  <l>
+                     <hi>Lovers that touch their Ladies lovely breaſt,</hi>
+                  </l>
+                  <l>
+                     <hi>Do feel a matchleſs flame within their heart;</hi>
+                  </l>
+                  <l>
+                     <hi>And are with amorous deſigns poſsest,</hi>
+                  </l>
+                  <l>
+                     <hi>To enjoy wonders in ſome other part.</hi>
+                  </l>
+                  <l>
+                     <hi>For greater pleaſures they require</hi>
+                  </l>
+                  <l>
+                     <hi>To ſatisfy their fond deſire.</hi>
+                  </l>
+               </lg>
+               <p>The comely proportion hath many charmes to move an affection, eſpecially when accompanied with a free <hi>Aer</hi> that attracts the inclinations of all perſons. We will name ſix ſorts, <hi>Great, Small, Mean, Fat, Lean,</hi> and <hi>in good caſe</hi> which may all delight, if well-proportioned, and furniſhed with that obliging and diſobliging <hi>Aer,</hi> for which I want a name.</p>
+               <lg>
+                  <pb n="20" facs="tcp:152590:19"/>
+                  <l>
+                     <hi>'Tis by his means inſenſibly that</hi> I</l>
+                  <l>
+                     <hi>Creep in a</hi> Lovers <hi>youthful boſome, who</hi>
+                  </l>
+                  <l>
+                     <hi>Without examining the reaſon why,</hi>
+                  </l>
+                  <l>
+                     <hi>Finds he's ſurpriz'd, &amp; yet he knows not how.</hi>
+                  </l>
+               </lg>
+               <p>There are beſides many other beauties, but as the knowledg of them is of no great conſequence, every perſon beſtow<g ref="char:EOLhyphen"/>ing a form upon them according to the dictates of his own Phancie; we will only diſcourſe here of thoſe that are ge<g ref="char:EOLhyphen"/>nerals, and aſſign the others a place in the number of <hi>Accompliſhments.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The Definition of</hi> Wealth.</head>
+               <p>
+                  <hi>WEalth</hi> is a quantity or heaping to<g ref="char:EOLhyphen"/>gether of goods, that may be di<g ref="char:EOLhyphen"/>vided into many parts.</p>
+               <p>And 'tis of two ſorts: the one is com<g ref="char:EOLhyphen"/>pos'd of ſeparate and disjoynted parts, and the other of thoſe that are united and continuous.</p>
+               <p>Disjoynted <hi>Riches</hi> is a great number of money, becauſe the parts that go to the
+<pb n="21" facs="tcp:152590:19"/>compoſition of it, have no mutual union between them. This quantity is not mea<g ref="char:EOLhyphen"/>ſured, but counted. Number is an accu<g ref="char:EOLhyphen"/>mulation of Unities. Unity is not num<g ref="char:EOLhyphen"/>ber, but the principle thereof. The greateſt number is always beſt; and is boundleſs, becauſe you may ſtill add thereunto <hi>in in<g ref="char:EOLhyphen"/>finitum.</hi>
+               </p>
+               <p>Continuous <hi>Wealth</hi> is a quantity, the parts whereof are joyn'd together with a continued <hi>ſeries,</hi> and may be meaſured; as fair Lands compos'd of great Parks, long Avenues, Woods full of tall Trees, large Meadows and vaſt champagne grounds, adorn'd with ſumptuous Ca<g ref="char:EOLhyphen"/>ſtles, ſtately Walks, Orchards and Flower-gardens, the whole enrich'd with clear waters, as well Rivers as Ponds and Fountains, fit for the breeding of good fiſh, and the refreſhment of Lovers du<g ref="char:EOLhyphen"/>ring the violent heat of Summer. In this kind of quantity, we admit only of the ſuperficies, the line being inſufficient, and having no occaſion for the whole body; unleſs it be the great bulk of an <hi>Apartment</hi> which muſt be furniſhed from top to bot<g ref="char:EOLhyphen"/>tom
+<pb n="22" facs="tcp:152590:20"/>as well with large beds, rich hang<g ref="char:EOLhyphen"/>ings, with ſilk or golden fringes, as the beſt Tapiſtry, and guilt Leather, Pictures, Veſſels of Silver, and other materials, which make a man ſtyl'd Rich.</p>
+               <lg>
+                  <l>
+                     <hi>When</hi> Fair <hi>and</hi> Rich <hi>in competition ſtand,</hi>
+                  </l>
+                  <l>
+                     <hi>I'me at a loſs and know not what to ſay:</hi>
+                  </l>
+                  <l>
+                     <hi>One hath more charms, yet on the other hand,</hi>
+                  </l>
+                  <l>Wealth <hi>with it's weight quite bears the bell a Way.</hi>
+                  </l>
+               </lg>
+               <p>When theſe two Rivals are ſe parated and in divers <hi>Subjects;</hi> this hath a great advantage above the other; not but that I have a ſtrong inclination to the former, and would freely abandon <hi>Riches</hi> to be of the Retinue of <hi>Beauty;</hi> but I have a Brother known by the name of <hi>Self-love,</hi> that oppoſeth with his whole ſtrength, and will never permit me to do it. There alſo accompanies him a certain Relation of his call'd <hi>Interest;</hi> that leaves no ſtone unturned in order to my obſtruction, they come often and raviſh me by violence out of the very embraces of <hi>Beauty</hi> to enſlave
+<pb n="23" facs="tcp:152590:20"/>me to <hi>Wealth.</hi> 'Tis no ſmall diſturbance to me, but I am the weakeſt, and there<g ref="char:EOLhyphen"/>fore I muſt obey them. What am I ca<g ref="char:EOLhyphen"/>pable of doing againſt them both. My Brother <hi>Self-love</hi> is luſtier than I, and is of himſelf able to work my ruin, when I walk not hand in hand with him; I muſt be in favour with him if I intend to continue long in any one place; and I never could find a better way for my own preſerva<g ref="char:EOLhyphen"/>tion, than tacitly to ſubmit to his pleaſure in all things; not but that I often do things of my own head, without his ad<g ref="char:EOLhyphen"/>vice; but he ſoon makes me repent it. Which falls out ſeldom when I have <hi>Wealth</hi> my Companion.</p>
+               <p>Not but that I frequently tire my ſelf in the purſuit of one and the ſame object, in the midſt of plenty as well as elſewhere: for I naturally affect variety, and cannot long ſubſiſt with enjoyment that is not attended with difficulty. 'Tis this that reinvigorates my deſires, and furniſheth me with a new ſupply of ſtrength; but I am no ſooner Conqueror, then the incli<g ref="char:EOLhyphen"/>nation I have to fight makes me carry any
+<pb n="24" facs="tcp:152590:21"/>arms elſewhere. If you would have me continue in one place, you muſt occupy me; that is, you muſt always lay ſome petty <hi>Remora's</hi> in my way, that I may ma<g ref="char:EOLhyphen"/>ſter them.</p>
+               <p>Which hath ſometimes cauſed in me this reflexion, that the jealouſy of Huſ<g ref="char:EOLhyphen"/>bands was of no uſe ordinarily but to en<g ref="char:EOLhyphen"/>tertain me in the hearts of their Wives, and of their Gallants a longer time, be<g ref="char:EOLhyphen"/>cauſe of the difficulty of the fruition of their pleaſure, whereas on the contrary I find that too great a facility makes them ſlight one another, and forceth me, either to change my Reſidence, or my Object; becauſe I never ſtamp ſo high an eſteem upon what I poſſeſs; as what I do not enjoy.</p>
+               <p>
+                  <hi>Beauty</hi> and <hi>Wealth,</hi> as amiable as they are, cannot afford me ſatisfaction, when I enjoy them peaceably. I would beſides have <hi>Youth,</hi> without which I cannot judg my felicity complete.</p>
+            </div>
+            <div type="part">
+               <pb n="25" facs="tcp:152590:21"/>
+               <head>
+                  <hi>The Definition of</hi> Youth.</head>
+               <p>
+                  <hi>YOuth</hi> is a neceſſary quality of <hi>Love,</hi> and an <hi>Accident</hi> almoſt inſeparable from its <hi>Subſtance,</hi> which is <hi>Beauty.</hi>
+               </p>
+               <p>We will lay down two ſorts, <hi>viz.</hi> from twelve to twenty years of age, and from twenty to thirty. As for men they may make it of longer continuance, and it is more acceptable to them above than ſhort of twenty. But with women 'tis otherwiſe, and the greateſt part of men, imagine the firſt age more amiable than the laſt. Yet there are ſome who do not love thoſe that are too young, but would have perſons perfectly made, and not to be made again; but there is a ſmaller number of this ſort of people, than of the other. Which is the reaſon why</p>
+               <lg>
+                  <l>
+                     <hi>When once a</hi> Maid's <hi>fifteen,</hi>
+                  </l>
+                  <l>
+                     <hi>Shee breathes, and her rest takes.</hi>
+                  </l>
+                  <l>
+                     <hi>And long ſlow journeys then</hi>
+                  </l>
+                  <l>
+                     <hi>Onward to twenty makes.</hi>
+                  </l>
+               </lg>
+               <pb n="26" facs="tcp:152590:22"/>
+               <p> As theſe years are more eſteem'd by her than the other, it is but juſt that ſhe make them continue a little longer, and they cannot afford them leſs time than that of the Roman <hi>Luſtrum;</hi> and as they are promoted in ſtature as they grow in years, their years are longer as they in<g ref="char:EOLhyphen"/>creaſe. When they arrive at the age of twenty, they take up their reſt, as being tir'd with ſo long a journey, and make a ſtand, till they come to thirty, and then they affirm they are one and twenty, and when at length the hair begins to ſhed, and that they have paſs't the age of forty, they contend ſo long with old age till they are overcome, and then they ſtrive dayly to repair the dammages it doth them, ſometimes by the artificial application of a ſmall piece of Ivory, to ſtop up the breaches that old Age hath made in their mouths, ſometimes by putting ſome <hi>Pomander</hi> ſweet-balls the ſmell whereof is more pleaſant than that which uſually proceeds from thence. Sometimes by ſmoothing the furrows in their cheeks, or making them more full and plump
+<pb n="27" facs="tcp:152590:22"/>with ſmall Spunges which they place on <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ach ſide of their mouth, to ſupply the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efect of their <hi>maigreneſs:</hi> and ſometimes alſo by colouring their hair as black as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Crow, when they are as white as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Swan.</p>
+               <p>Yet there are ſome of theſe fair-aged women, who pretend a right to create <hi>Love,</hi> eſpecially when accompanied with Gallantry; 'tis by this means that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey imagine a poſſibility of ſupplying the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efects of <hi>Youth</hi> in them, and repairing <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he loſſes they have made. This deſigne <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bligeth them to ſweeten their aſpect, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd to uſe conſtantly obliging and flat<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ering language, and to make the beſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dvantage they can of their <hi>decorum.</hi> If <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny one lets ſlip a word that reliſheth of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he flouriſh or <hi>complement,</hi> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y have an Anſwer ready, and endeavour to engage <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im more deeply in the Combat; it is to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o purpoſe for him to recede, for they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urſue him, till they have extorted a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onfeſſion from him, that he hath no <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hancy to make. After they have thus <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lapt (as I may ſo ſay) a Piſtol to his
+<pb n="28" facs="tcp:152590:23"/>Breaſt, to compel him to an acknow<g ref="char:EOLhyphen"/>ledgment of what is falſe, they give him fair hopes of enjoying that which he leaſt deſires. <hi>In fine,</hi> they ſet themſelves for<g ref="char:EOLhyphen"/>ward as much as in them lies, and there wants nothing but his conſent to make up a ſpeedy agreement; but he is no ſooner abſent, but he forgets what paſs't in diſ<g ref="char:EOLhyphen"/>courſe, it flies away with the breath tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> gave it birth, without leaving the lea<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> impreſſion in his mind. Nevertheleſs th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſuperannuate <hi>Beauty</hi> flatters her ſelf with a new Conqueſt.</p>
+               <p>Not but that <hi>Gallantry</hi> proves often ef<g ref="char:EOLhyphen"/>fectual, whilſt accompanied with <hi>Youth</hi> and <hi>Beauty,</hi> but ſhe is but weak of her ſelf yet ſhe is longer liv'd than either of theſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> two, and time hath not the ſame powe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> over her. When ſhe is beſtowed upon <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lady, ſhe ſeldom deſerts her, and uſually attends her to her grave. 'Tis true tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> when ſhe grows old, and at a certain ſtay, ſhe appears no longer <hi>a la mode;</hi> ſhe will not ordinarily alter her decency as others do; ſhe rejects the new <hi>modes</hi> of diſcourſe, and finds none ſo <hi>gentile</hi> as
+<pb n="29" facs="tcp:152590:23"/>thoſe which were us'd in her time. And it fares alike with her in all things elſe; no<g ref="char:EOLhyphen"/>thing ſeems ſo commendable as what was then in uſe. The World is not ſo polite, nor molded to her phancy; they dance not with that grace, they are not ſo dex<g ref="char:EOLhyphen"/>terous in all ſorts of exerciſes; they have not ſuch active Spirits; the wearing of Apparel is not ſo exactly underſtood; Treats are not ſo ſumptuous, and their Diverſions are not ſo well manag'd: but <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow we have diſcours't of <hi>Antique Gal<g ref="char:EOLhyphen"/>lantry,</hi> we muſt ſay ſomewhat of that which is <hi>Youthful.</hi>
+               </p>
+               <p>If ſhe hath never ſo many Courtiers ſhe ſtudies to ſatisfy them all by feeding them with fair hopes; and when ſhe hath many in her Company, ſhe makes as if <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he would pleaſe them all;</p>
+               <lg>
+                  <l>
+                     <hi>T'one ſhe diſcourſeth with a ſpeaking Eye,</hi>
+                  </l>
+                  <l>
+                     <hi>And ſoftly whiſpers th'other in the Ear,</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis you that I love beſt, or let me dye,</hi>
+                  </l>
+                  <l>
+                     <hi>Makes him hope wonders and be of good cheer.</hi>
+                  </l>
+                  <l>
+                     <hi>And if a third his ſad fate blaming ſtands,</hi>
+                  </l>
+                  <l>
+                     <hi>Treads on his Toe, or wrings him by the hands.</hi>
+                  </l>
+               </lg>
+               <pb n="30" facs="tcp:152590:24"/>
+               <p> Not but that in this great number <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Admirers, ſhe hath ſome ſingle perſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> whom ſhe makes choice of; for as pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſant as I am, my Empire cannot be di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vided, but a diſſolution follows. So tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> when I give a <hi>Lover</hi> dominion over <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Heart, the reſt can find no Reſiden<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there: but as <hi>Galantry</hi> exactly under<g ref="char:EOLhyphen"/>ſtands the method of my proceedings ſhe is careful how ſhe declares her ſelf i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> favour of a ſingle Perſon, for fear of lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſing all the reſt. Which breeds in the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> minds a certain monſter call'd <hi>Jealouſy</hi> who although indebted to me for his be<g ref="char:EOLhyphen"/>ing, yet is ſometimes ſo unnatural as t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtrangle me: but as <hi>Jealouſy</hi> owes its Be<g ref="char:EOLhyphen"/>ing to my Enemy, which is <hi>Hatred,</hi> a well as to my ſelf; 'tis no wonder if ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be not always on my ſide; this wicke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mother gives her pernicious advice which ſtill tends to my deſtruction.</p>
+               <p>To animate her the more againſt m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhe puts him in mind of the ingratitude o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> her that bore me, ſhe gives him a Cata<g ref="char:EOLhyphen"/>logue of all my paſt ſervice, ſhe ſhew<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him the defects of him that is favoured by
+<pb n="31" facs="tcp:152590:24"/>this fair one, and forgets not her own neither. <hi>In fine,</hi> ſhe leaves no ſtone un<g ref="char:EOLhyphen"/>turn'd to perſwade her and my Danghter to baniſh me out of the Heart, to ſupply my place, and remain ſole Miſtris Regent.</p>
+               <p>But as <hi>Jealouſy</hi> is as much indebted to me as <hi>Hatred,</hi> ſhe doth not accompliſh her deſigns without ſome difficulty, and I uſually obtain the victory being aſſiſted by <hi>Beauty.</hi> 'Tis ſhe that makes <hi>Jealouſy</hi> eſpouſe my quarrel, and immediately diſſipates all the conjurations of her Mo<g ref="char:EOLhyphen"/>ther <hi>Hatred;</hi> 'tis ſhe that calmes the tempeſts that were raiſed in the Hearts; 'tis ſhe that diſarms <hi>Envy</hi> and <hi>Anger,</hi> that lie in ambuſh for my deſtruction, and that makes me gain a glorious victory over all my Enemies.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Of</hi> Relatives.</head>
+               <p>
+                  <hi>RElatives,</hi> are two things that have a mutual dependance one upon the o<g ref="char:EOLhyphen"/>ther, and ſo are ſo concatenated, that the underſtanding cannot conceive the one
+<pb n="32" facs="tcp:152590:25"/>without the other. As for example, I cannot phancy to my ſelf that there is a <hi>Lover,</hi> without concluding he hath a <hi>Miſtreſs;</hi> nor a <hi>Miſtreſs</hi> without ima<g ref="char:EOLhyphen"/>gining ſhe hath one or more <hi>Lovers.</hi>
+               </p>
+               <p>There are ſeveral ſorts of <hi>Relatives;</hi> ſome are perfect, the other imperfect; the perfect are, the party <hi>Loving</hi> and the party <hi>Loved;</hi> becauſe theſe two are ſo linked together, that the one ſubſiſts by the help of the other, and ſeem to make but one and the ſame; though they are two diſtinct things.</p>
+               <p>The imperfect <hi>Relation</hi> is that, which is between the <hi>Lover</hi> and his <hi>Miſtreſs;</hi> for 'tis probable that ſhe may not anſwer the paſſion of the former, and the <hi>Lover</hi> can have but one <hi>Miſtreſs;</hi> but ſhe may have ſeveral <hi>Lovers,</hi> who will be related to her as many ſeveral ways, as the <hi>punctum</hi> in the Center of a Circle, which is made as often as you draw a Line from this point to the Circumference.</p>
+               <p>One and the ſame thing may have the name of two <hi>Relatives,</hi> but in ſeveral reſpectts; as, ſhe can be but <hi>Miſtreſs</hi> to
+<pb n="33" facs="tcp:152590:25"/>one perſon that is <hi>Lover</hi> to another. There are alſo ſome other <hi>Relations,</hi> that are contrary and oppoſite. As <hi>Beauty</hi> and <hi>Deformity, Wealth</hi> and <hi>Poverty, Youth</hi> and <hi>Old-age.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Of</hi> Action.</head>
+               <p>MOſt amorous <hi>Actions</hi> are ſubject to the Government of the Spirit that imprints its virtue upon the Object which I preſent, and ſooner finds out the Art of pleaſing that perſon, that hath pleaſed her.</p>
+               <p>There are ſeveral ſorts of tempers; ſome are ſerious, the other jovial; ſome are full of fire, and others attended with languiſhing, and yet come to the ſame end, though they make uſe of different means to attain thereunto.</p>
+               <p>At firſt I have no ſmall trouble to in<g ref="char:EOLhyphen"/>ſinuate my ſelf into him that is Melan<g ref="char:EOLhyphen"/>cholick; but when I once have admiſſion, I make ſo ſtrong an impreſſion; that
+<pb n="34" facs="tcp:152590:26"/>time it ſelf finds all the difficulty in the world to wear it away. And theſe are the perſons I make conſtant <hi>Lovers.</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>When charm'd with rays ſhot from a lovely eye</hi>
+                  </l>
+                  <l>
+                     <hi>And that they once have ſworn fidelity,</hi>
+                  </l>
+                  <l>
+                     <hi>Their faith and life we coextenſive find.</hi>
+                  </l>
+                  <l>
+                     <hi>Nor for fair objects do they chang their mind.</hi>
+                  </l>
+               </lg>
+               <p>As they are naturally apt to conceive things of great moment; ſo they manage their <hi>Paſſion</hi> after a more lofty and ſtately manner than others do, as if it were an important affair for the good of the State.</p>
+               <lg>
+                  <l>
+                     <hi>If they declare their</hi> Love, <hi>'tis done</hi>
+                  </l>
+                  <l>
+                     <hi>With very great precaution.</hi>
+                  </l>
+                  <l>
+                     <hi>Stanza's or Elegies they write in Verſe,</hi>
+                  </l>
+                  <l>
+                     <hi>And every word's a Sentence they reherſe.</hi>
+                  </l>
+               </lg>
+               <p>Thoſe that are of a Jovial Spirit do ſteer a quite contrary courſe: they pro<g ref="char:EOLhyphen"/>ceed in their moſt weighty concernments, as if they were but <hi>bagatels.</hi> They laugh in the midſt of their ſufferings, and make
+<pb n="35" facs="tcp:152590:26"/>it their buſineſs to jeſt with all things: not but that they have their hours of di<g ref="char:EOLhyphen"/>ſturbance as well as others; but their na<g ref="char:EOLhyphen"/>tural propenſity to jollity, ſoon buries all things in oblivion. They oftentimes accompliſh their deſires more ſucceſsfully by playing the <hi>Buffoons,</hi> than others by their paſſionate Complaints; for I na<g ref="char:EOLhyphen"/>turally avoid <hi>grief</hi> and <hi>ſadneſs,</hi> and love to live and be among <hi>divertiſements</hi> and <hi>pleaſures.</hi>
+               </p>
+               <p>The Fiery Spirit uſually comes ſhort of the ſucceſs of the Languiſhing. The fiery temper cannot endure a repulſe, he is dayly tranſported againſt thoſe impe<g ref="char:EOLhyphen"/>diments that oppoſe his felicity. And becauſe he uſually undertakes ſo much, he ſeldom ſucceeds in any thing; unleſs he attaque ſuch Places as are taken by <hi>Parly,</hi> and yield at the firſt <hi>Summons.</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>Then a raſh</hi> Lover <hi>better far ſucceeds</hi>
+                  </l>
+                  <l>
+                     <hi>In his deſigns, than one that's circumſpect:</hi>
+                  </l>
+                  <l>
+                     <hi>For to be happy and to pleaſe, there needs</hi>
+                  </l>
+                  <l>
+                     <hi>Not conſtantly a durable reſpect.</hi>
+                  </l>
+               </lg>
+               <pb n="36" facs="tcp:152590:27"/>
+               <p>'Tis my uſual cuſtom to confer my fa<g ref="char:EOLhyphen"/>vours upon thoſe that are bold, as well as <hi>Fortune's;</hi> but ſometimes I inflict pu<g ref="char:EOLhyphen"/>niſhments upon thoſe that are too impu<g ref="char:EOLhyphen"/>dent: for by this means it falls out, that a perſon might have gain'd a Ladies fa<g ref="char:EOLhyphen"/>vour, who loſeth it by a precipitate at<g ref="char:EOLhyphen"/>tempt. So a man may alſo work his own ruin upon the accompt of his Miſtreſs, for letting ſlip a favourable opportunity offe<g ref="char:EOLhyphen"/>red, and for not making advantage of that happy moment, which they call the <hi>Critical</hi> Minute: yet the firſt way of procedure is far leſs dangerous than the laſt, and I ſhould adviſe a Perſon to in<g ref="char:EOLhyphen"/>cline rather to boldneſs than fear; for 'tis the former diſcovers this fortunate hour, though it ſeems but ſhort in compariſon of an eternity.</p>
+               <p>Yet he who meets with it muſt not trouble himſelf with others, provided upon the diſcovery he find himſelf diſ<g ref="char:EOLhyphen"/>pos'd to make a right uſe of it.</p>
+               <p>But let us return to the Spirit; 'tis this then that acts well or ill, as it is well or ill inclin'd: there is beſides another kind of
+<pb n="37" facs="tcp:152590:27"/>malicious Spirit yet artifieial, that creates a great deal of buſineſs to it ſelf, that o<g ref="char:EOLhyphen"/>thers may not want it; it is naturally ſupple, complaiſant, and very fruitful in Invention. He that is ſo qualified, leaves nothing unpractic'd to obtain his deſigns, and he is forced ordinarily to make uſe of <hi>Obloquy,</hi> and <hi>Flattery,</hi> as he finds the one or the other favours his Undertakings, The latter is very proper to ingratiate him into the Ladies favour, and the former renders him a redouted Enemy to all his Rivals.</p>
+               <p>But if his crafty wiles come once to be diſcovered, it ſerv's to unite them more firmly, and he ſeeks his own ruin in the deſtruction of others, he becomes the <hi>Object</hi> of his Miſtreſſes hatred, and his Rivals revenge, and then is the time that he ſtands in need of Valour to repel the affronts that may be thrown upon him.</p>
+               <p>For if they know he is deſtitute of this quality, he runs the riſque of leading an ill life: 'twill be to no purpoſe for him to hover about with his accuſtomed adreſſes; he will ever encounter with
+<pb n="38" facs="tcp:152590:28"/>ſome perſon or other who will take off this vizard, which will not happen if he be valiant. They will deliberate upon it more than once, before they reſolve to offend him, they pretend ignorance of thoſe things they certainly underſtand, and he hath the power to make himſelf fear'd, though he cannot make himſelf belov'd.</p>
+               <p>But it fares otherways with the Spirit, that is no ſooner hated than rifled; and as there is no great hazard in encountring it, ſo they crowd after it to attaque it; not but that it hath Arms defenſive and offenſive, but they are not ſo dangerous as thoſe that belong to Valour: for the one aims at the life, and the other endea<g ref="char:EOLhyphen"/>vours only the ſhipwrack of honour and reputation: but though the world is of opinion, that the latter is more accep<g ref="char:EOLhyphen"/>table than the former; yet they are no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo careful in the preſervation thereof: the reaſon is, becauſe it is eaſier to repair the injury done to them, than to cure great wounds: and thoſe that love to ſleep in a whole skin will tell you, that
+<pb n="39" facs="tcp:152590:28"/>Reputation, like the hair on the Head, ſoon returns again. To conclude this point, they agree that it is better to have the Spirit your Enemy, than Valour: and that it is a more facil buſineſs to re-eſta<g ref="char:EOLhyphen"/>bliſh an injur'd reputation, than to gain a new life.</p>
+               <lg>
+                  <l>
+                     <hi>Wit voyd of Valour doth unvalued ſeem,</hi>
+                  </l>
+                  <l>
+                     <hi>And wants ſuch a ſupport to gain eſteem:</hi>
+                  </l>
+                  <l>
+                     <hi>Yet Valour must of Wit ſtill have ſome ſhare,</hi>
+                  </l>
+                  <l>
+                     <hi>To animate and pilote it with care.</hi>
+                  </l>
+               </lg>
+               <p>Without this 'tis a brutiſh thing, ca<g ref="char:EOLhyphen"/>pable of bad as well as good actions: and they account it a piece of Honour to ven<g ref="char:EOLhyphen"/>ture pleaſantly upon affronting another: they ſpend the greateſt part of their time in raſhneſs, or at leaſt in playing the <hi>Rodomontado's;</hi> when they are deſtitute of Spirit, they uſually are attended with the contrary ſtupidity, 'tis a blind guide that makes them frequently miſtake falſhood for truth, that leads them to Precipices, and renders them altogether incapable of noble Actions: it ſeldome
+<pb n="40" facs="tcp:152590:29"/>prevailes in obtaining Ladies favours, 'its heavy and dull humour cannot fuit it ſelf with the ſubtilty and delicacy of theirs; they have too good judgment to make ſo bad a choice; and all that it can expect, is to be their laughing ſtock and ſcorn.</p>
+               <p>Stupidity, otherwiſe called Sottiſhneſs, is of two ſorts; the one <hi>mute,</hi> and the other <hi>talkative;</hi> the latter ſerves to di<g ref="char:EOLhyphen"/>vert good Company, and affords a good ſubject of mirth at its own expenſe, by its fooliſh queſtions or ridiculous ſtories: ſometimes the perſon would appear to be ſome body by affording his advice in what he underſtands not, and venturing boldly upon a deciſion of the moſt intri<g ref="char:EOLhyphen"/>cate queſtions; but never appears ſo pleaſant, as when he intends to be wel-worded, then he gathers together a maſs of hard words, but is ignorant of their ſignification, and perpetually harps upon them that are not the cauſe; but they receive a return with uſe for the diverſion afforded, when he begins to be imper<g ref="char:EOLhyphen"/>tinent and troubleſome by prolix and
+<pb n="41" facs="tcp:152590:29"/>tedious diſcourſes, and when he hath engag'd himſelf to relate you a ſtory, your whole day muſt be ſpent in hearing. You cannot poſſibly withdraw your ſelf, for he proceeds from particular to par<g ref="char:EOLhyphen"/>ticular, and every minute ſallies out of the ſubject. Not unlike a traveller who hath loſt his way in a Wood, who knows not on which ſide he marcheth, nor how to extricate himſelf. Now as the Spirit hath a natural antipathy againſt Sottiſh<g ref="char:EOLhyphen"/>neſs, he is upon an inſupportable rack, if compell'd by any conſideration to give ear unto it, then he becomes the Patient, though upon all accounts elſe whatſoever he is uſually the Agent.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Of</hi> Paſſion.</head>
+               <p>
+                  <hi>PAſſion</hi> is the reception of the Vertue of the Agent; as when a curious eye darts <hi>love</hi> with its glances, this effect is called <hi>paſſion.</hi>
+               </p>
+               <p>And there are ſeveral kinds of it; the moſt inſupportable of all is <hi>Poverty,</hi> and
+<pb n="42" facs="tcp:152590:30"/>it is almoſt impoſſible that we two ſhould continue long in one place; there are ſome <hi>Paſſions</hi> that would in the concluſion deſtroy the Patient, if they went on in<g ref="char:EOLhyphen"/>creaſing as this doth, and there are others that perfect the ſubject that receiv's them, as increaſe of <hi>Riches, Wit, Beauty:</hi> As for <hi>Youth</hi> that is always decreaſing.</p>
+               <p>There are beſides pleaſant <hi>Paſſions,</hi> as the ſight of a beautiful object, and the reception of the <hi>love</hi> created thereby.</p>
+               <p>The Agent oftentimes ſuffers whilſt acting, and the Patient acts upon its A<g ref="char:EOLhyphen"/>gent: and this happens when a <hi>Beauty</hi> receives me, at the ſame time that ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e gives me; then the <hi>Lover</hi> and the Party <hi>lov'd</hi> are Patients and Agents both at once, and have each of them particularly both theſe diſtinct powers within them<g ref="char:EOLhyphen"/>ſelves. When this happens, the <hi>Lover</hi> hath reaſon to hope that he may have the fruition of his happineſs; but if this fair one recede and denies the reception of my <hi>love</hi> after ſhe hath created <hi>love</hi> in me, he muſt ſtorm and exclaim againſt me for injuſtice: nay I permit him to rail, and to ſpeak injuriouſly of me in her pre<g ref="char:EOLhyphen"/>ſence,
+<pb n="43" facs="tcp:152590:30"/>and to reproach me before her with the evils that I force him to undergo. But when he perceives that his complaints begin to take effect, according to his de<g ref="char:EOLhyphen"/>ſire, he muſt never put a period to them, till he arrives at the chiefeſt point of his happineſs: when he hath receiv'd a fa<g ref="char:EOLhyphen"/>vour from his Miſtreſs, he muſt look upon it as a ſtep to raiſe him to a higher degree of good fortune. In this I imitate <hi>Ambi<g ref="char:EOLhyphen"/>tion,</hi> that ſets no value upon what is al<g ref="char:EOLhyphen"/>ready poſſeſs't, as long as there remains any thing to be deſir'd, yet he muſt not fail to teſtify his gratitude when he re<g ref="char:EOLhyphen"/>ceives ſome inconſiderable favour, but his hopes muſt be boundleſs. If therefore he find that he begins to creep into her affection, let him complain that is not ſa<g ref="char:EOLhyphen"/>tisfactory, till he hath received ſome infallible teſtimonies, that will put the <hi>Paſſion</hi> ſhe hath for him beyond all ſcruple whatſoever; then let him enjoy his fe<g ref="char:EOLhyphen"/>licity at large, till time and habit joyn'd to the natural inclination I have to change, make me take Wing to ſome other place: for I do not love to lay long
+<pb n="44" facs="tcp:152590:31"/>Siege to a place that makes no farther oppoſition.</p>
+               <lg>
+                  <l>
+                     <hi>'Tis nimbleneſs of wings that makes</hi> Me Love</l>
+                  <l>
+                     <hi>Unſetled, and</hi> Lovers <hi>inconſtant prove:</hi>
+                  </l>
+                  <l>
+                     <hi>But this great ſecret Ladies muſt not know,</hi>
+                  </l>
+                  <l>
+                     <hi>For then to Courtſhip they'l rebellious grow.</hi>
+                  </l>
+               </lg>
+               <p>'Tis therefore to you <hi>Lovers</hi> only that I relate theſe things; for as to the La<g ref="char:EOLhyphen"/>dies, I do not make it my buſineſs to diſ<g ref="char:EOLhyphen"/>cover my thoughts ſo freely to them. On the contrary, I employ my beſt Oratory to perſwade them as much as in me lies, that they will never forſake them, that the favours they beſtow upon their <hi>Lo<g ref="char:EOLhyphen"/>vers,</hi> are as ſo many chains to oblige them more ſtrongly to their ſervice, and that they have too noble a Soul not to acknowledg it; that they are too gene<g ref="char:EOLhyphen"/>rous to violate their faith, that they have by frequent Oaths ſworn to keep; and that they themſelves are too amiable to admit of this fear, that they will ever take up a reſolution to deſert them.</p>
+               <p>But we muſt proceed no farther in the
+<pb n="45" facs="tcp:152590:31"/>explanation of this Chapter, let us there<g ref="char:EOLhyphen"/>fore return to the Predicament of <hi>Paſſion,</hi> and conclude, that to render it acceptable it muſt be reciprocal in two hearts, and that the <hi>Beauty</hi> that cauſeth it, receive it at one and the ſame time.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Of the Predicament</hi> Where.</head>
+               <p>
+                  <hi>WHere,</hi> is no other but a Term that denotes the particular place of a <hi>Subject,</hi> when you anſwer to a Queſtion. As for example, if they ſhould ask <hi>where</hi> is the young <hi>Climene?</hi> She is at a <hi>Ball,</hi> at a <hi>Comedy,</hi> ſhe is Hunting, <hi>Where</hi> is <hi>Love?</hi> It is in the <hi>Eyes,</hi> and frequently in the <hi>Heart;</hi> for I can be in both theſe places at once: which is the reaſon why My Philoſophers affirm, that the <hi>beautiful</hi> Ladies are a in a place <hi>circumſcriptive,</hi> and I in them <hi>definitive i. e.</hi> that I am there without taking up any place. I have alſo the faculty of being in ſeveral places all at once.</p>
+               <lg>
+                  <pb n="46" facs="tcp:152590:32"/>
+                  <l>
+                     <hi>Though I'me in</hi> Climene, <hi>who ſeeks me, ſpie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>And meets me ſometimes in fair</hi> Iris <hi>eyes:</hi>
+                  </l>
+                  <l>
+                     <hi>And though in</hi> London <hi>I am found, yet you</hi>
+                  </l>
+                  <l>
+                     <hi>May ſeek me ſomewhere elſe, and find me too.</hi>
+                  </l>
+               </lg>
+               <p>In what place ſoever I am, I am ſtill the ſame <hi>Love;</hi> 'tis true that every one cloath's me according to his own phancy; and makes me deliver my ſelf in what Language he pleaſeth; but I change not my Nature, though I do the Country: and though I am now in <hi>England,</hi> and at preſent ſpeak to you in <hi>Engliſh,</hi> yet I am nevertheleſs at the ſame inſtant in all the corners of the Earth, and ſpeak a thou<g ref="char:EOLhyphen"/>ſand ſeveral Languages.</p>
+               <lg>
+                  <l>
+                     <hi>Subject to my Laws is the whole World's frame</hi>
+                  </l>
+                  <l>
+                     <hi>All things that breath feel my inſpir'd flame.</hi>
+                  </l>
+                  <l>
+                     <hi>I with my fire fill (though a Child) the World,</hi>
+                  </l>
+                  <l>
+                     <hi>And am at once to thouſand places hurl'd.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="47" facs="tcp:152590:32"/>
+               <head>
+                  <hi>Of the Predicament</hi> When.</head>
+               <p>
+                  <hi>WHen,</hi> is not time it ſelf, but it is a deſignation or remark of time; as for example if the Queſtion be, <hi>When</hi> is it proper to <hi>love?</hi> The Anſwer is, in <hi>Youth. When</hi> are <hi>Lovers</hi> happy? In the <hi>Critical</hi> Minute. <hi>When</hi> doth that happen? <hi>Often<g ref="char:EOLhyphen"/>times,</hi> when you leaſt think of it.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Of the Predicament of</hi> Situation.</head>
+               <p>
+                  <hi>SItuation</hi> denotes the poſture of the <hi>Sub<g ref="char:EOLhyphen"/>ject;</hi> As when one would know whe<g ref="char:EOLhyphen"/>ther <hi>Climene</hi> lies extended on a Couch, or ſtands upright. Whether a Ladies <hi>Lover</hi> is kneeling, ſtanding, or in ſome other poſture more advantageous to him, as you may ſay, incircled in her arms.</p>
+               <p>There is another kind of <hi>Situation,</hi> that is worthy obſervation, <hi>viz.</hi> Whether the <hi>Lover</hi> or his Miſtreſs are <hi>rich</hi> or <hi>poor;</hi> for my <hi>Situaiion</hi> often depends upon that
+<pb n="48" facs="tcp:152590:33"/>of <hi>Fortune.</hi> Heretofore I did diſcharge my ſelf very well without her, and I could unite two Hearts without any regard had to the inequality of their conditions. How many Kings have been captivated with Shepherdeſſes, and how many lovely Gentlemen have aſſum'd the boldneſs to raiſe their thoughts up to the very Thrones of their Sovereineſſes, and have proſpered in ſubjugating of their Wills? But this <hi>time</hi> hath made it ſelf Wings, and is flown away, and <hi>ambition</hi> hath ſo ſtrongly ſeized the empire of Hearts in this latter age, that I am not permitted to act, but when I can contribute to her promotion, ſhe is an imperious and cruel Dame, that enrols none in the Liſt of her Retinue but ſuch as can aggrandize her, and looks upon one with no other eye, but as a perſon that can ſatisfie her Coveteouſneſs. If I propoſe a perſon to her whom <hi>Fortune</hi> hath rancked in a lower Sphere, ſhe looks upon me as ridiculous, and deſpiſeth him though he be the abſolute Model of perfection and vertue.</p>
+            </div>
+            <div type="part">
+               <pb n="49" facs="tcp:152590:33"/>
+               <head>
+                  <hi>Of the Predicament of</hi> Habit.</head>
+               <p>BY the <hi>Habit</hi> we underſtand all ſorts of external Ornaments, as well for Men as Women, as Garments of fine Stuff enriched with gold-plated Buttons, curious <hi>Venetian</hi> Points, and other toyes which make the accoutrements complete; but here are certain Maximes to be ob<g ref="char:EOLhyphen"/>ſerved.</p>
+               <p>Firſt, That all the Garments worn be <hi>a la mode,</hi> that they be always new, and that you have variety for change: to avoid all extremes, and extravagant Faſhions, and not to be concern'd with the introducing of new ones, but follow theſe that are moſt generally approv'd; to change when others change, and never to have any thing that is extraordinary, or affected. If at the ſame time different Garbs are in Faſhion, in that Caſe it argues Prudence to make uſe of thoſe that are moſt commodious, be it either to ſhrowd ſome imperfection of the bo<g ref="char:EOLhyphen"/>dy,
+<pb n="50" facs="tcp:152590:34"/>or to ſhew ſome perfection which others have not. <hi>E. g.</hi> If a man hath a handſome well-ſhap'd Leg, let him ſhew it as much as he can, and let him wear a ſilk Stocking drawn up ſtraight without peſtring himſelf with large Tops, as the major part of young Courtiers do, who had rather expoſe their expences to the publick view, than the advantages that Nature hath beſtowed upon them. If they have a good head of Hair that is ſomewhat brown, they will not ſcruple to hide it under a very light <hi>Perruque:</hi> but this is not the uſe that ſhould be made of it; for a perſon ſhould never make uſe of thoſe advantages that may be drawn from Art, unleſs it were to repair the de<g ref="char:EOLhyphen"/>fects of Nature.</p>
+               <p>Not but that <hi>Habillements</hi> are very ad<g ref="char:EOLhyphen"/>vantageous, eſpecially to Women; for that Lady may be judg'd an extraordi<g ref="char:EOLhyphen"/>nary <hi>Beauty,</hi> whilſt ſhe is ſeen in a noble Dreſs, who will loſe the greateſt part of her charmes, when deveſted of her <hi>Appa<g ref="char:EOLhyphen"/>rel.</hi> And thoſe that are experienc'd do not love to be ſeen in a careleſs Garb, and
+<pb n="51" facs="tcp:152590:34"/>when they are ſurpriz'd, will take ſuf<g ref="char:EOLhyphen"/>ficient notice of it: and as they know the advantages of a Dreſs and their other accoutrements, they make it their moſt important and ordinary buſineſs. In the Morning, as ſoon as they are up, the firſt thing they do is to ſalute their Glaſs, and conſult with it, to know whether they have gain'd or loſt any <hi>Graces</hi> ſince they laſt convers'd with it. And as the <hi>Meroir</hi> naturally hates diſſimulation and flattery, it never maſques the truth, for if their Eyes be ſunk, it freely gives them notice of it, though this doth not much pleaſe them. No flowry Compliments or other expreſſions are ſo acceptable as what comes from hence; the ambition they have to attract them, makes them attire themſelves in their Glaſs, 'tis true they make many ſtrange Faces before the <hi>Mirvir</hi> gives a pleaſing Repreſenta<g ref="char:EOLhyphen"/>tion. Then they immediately bridle in their Chin, and make horns upon their heads with their Hair, the Looking-glaſs, that is like an Ape, counterfeits them, and ſhews them the horns alſo, when
+<pb n="52" facs="tcp:152590:35"/>they ſmooth their Hair the Looking-glaſs ſmooths it alſo; and when they raiſe it, it raiſeth it likewiſe, and gene<g ref="char:EOLhyphen"/>rally doth every thing they do. After that they have ſpun away the Morning in ordering their Hair, and their Pen<g ref="char:EOLhyphen"/>dents, and making little rings upon their Fore-heads, which they faſten with mouth-glew, and rightly placing their Ear-rings and other Toys, and that the Glaſs acquaints them their Head is well dreſt; then they begin to commit their Body to a cloſe impriſonment, and pinch it in ſo narrow a compaſs, that the beſt part of it's plumpneſs, is forced to riſe toward the Neck, to emancipate it ſelf from ſuch hard captivity: and being proud of her liberty, appears with a kind of pleaſant briskneſs, which becomes her infinitely. As for her fair Breaſts they are half impriſoned and half free; and do their utmoſt endeavour to procure their abſolute liberty, by ſhooving back that which veils the one half; but they are too weak to effect it, and whilſt they ſtrive to free themſelves they caſt
+<pb n="53" facs="tcp:152590:35"/>over a Veil, which perfectly hides them. The deſire they have to be expos'd to view makes them beat it back continually, and not being able to remove that ſmall obſtacle, they look quite through it: there is nothing conſtantly free but the upper part of the Neck, which is alſo more vain-glorious, than all the reſt, and is adorn'd with a Neck-lace of great va<g ref="char:EOLhyphen"/>lue, which addes to its vanity. When the fair one is thus <hi>accoutred,</hi> ſhe turns on all ſides before the Glaſs, as if ſhe would ask the queſtion, What it thinks of her? And when he likes it, ſhe takes her leave, and orders the Horſes to be put in the Coach, and then ſhe goes to beſtow a viſit upon ſome Aſſembly of Ladies, that ſhe may not altogether loſe the pains ſhe hath taken in her at<g ref="char:EOLhyphen"/>tiring: after they have done comple<g ref="char:EOLhyphen"/>menting, their diſcourſe is generally about the <hi>Habit;</hi> and if one, Woman among them hath any new thing on, that hath not been formerly ſeen by the reſt, they will ſeldome paſs without taking notice of them all, and make a ſtrict examination
+<pb n="54" facs="tcp:152590:36"/>of them; and will expreſs themſelves, during their obſervation, in this man<g ref="char:EOLhyphen"/>ner,</p>
+               <lg>
+                  <l>
+                     <hi>Lord! How this Stuff doth pleaſe my phan<g ref="char:EOLhyphen"/>cy! How</hi>
+                  </l>
+                  <l>
+                     <hi>Neat is the Trimming and well choſen! I vow</hi>
+                  </l>
+                  <l>
+                     <hi>I like thoſe Colours, their order and place,</hi>
+                  </l>
+                  <l>
+                     <hi>Beſides,</hi> Madam, <hi>you have a ſtately Lace;</hi>
+                  </l>
+                  <l>
+                     <hi>What cost it? Thirty</hi> Guinnies? <hi>No not ſo,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet I had much adoe to get it though.</hi>
+                  </l>
+                  <l>
+                     <hi>It is the best that e're I ſaw of late;</hi>
+                  </l>
+                  <l>
+                     <hi>Would I had ſuch an one at ſuch a rate,</hi>
+                  </l>
+               </lg>
+               <p>And ſo they turn her round to ſee if her Robes are well made, every one conſiders of it, and delivers her opinion; and though they ſit as exactly as ever <hi>Garment</hi> did: they will always find ſome fault, and then it runs the hazard of be<g ref="char:EOLhyphen"/>ing ſent back to the Taylor more than once; nay there are none, but thoſe that bear one another a ſpleen, but will ad<g ref="char:EOLhyphen"/>viſe one with another, when they per<g ref="char:EOLhyphen"/>ceive any defect: and on the contrary
+<pb n="55" facs="tcp:152590:36"/>'tis then, they ſpeak moſt in commenda<g ref="char:EOLhyphen"/>tion. But let this ſuffice as to the <hi>Predi<g ref="char:EOLhyphen"/>came<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>abit.</hi>
+               </p>
+               <p>All things that are in the Univerſe are contained under theſe ten <hi>Categories</hi> or <hi>Predicaments,</hi> which I have made uſe of to aſſiſt me in the framing all ſorts of amorous <hi>Propoſitions,</hi> or <hi>Enunciations;</hi> which go to the Compoſition of my Arguments. But it is not ſufficient to have conſidered them in themſelves, ab<g ref="char:EOLhyphen"/>ſtracted from all manner of <hi>Subjects,</hi> we muſt alſo look upon them as fit inſtru<g ref="char:EOLhyphen"/>ments to frame an Argument, and as things depending upon Perſons, of which we deſire to diſcourſe: and as the way to underſtand throughly the nature of every <hi>Subject,</hi> is to examine it in gene<g ref="char:EOLhyphen"/>ral, and in particular, to know its <hi>Diffe<g ref="char:EOLhyphen"/>rence, Property</hi> and <hi>Accidents,</hi> we will ex<g ref="char:EOLhyphen"/>plain all theſe things, before we frame our Arguments.</p>
+            </div>
+            <div type="part">
+               <pb n="56" facs="tcp:152590:37"/>
+               <head>
+                  <hi>Of the five</hi> Predicables; Genus, Species, Differentia, Propri<g ref="char:EOLhyphen"/>um <hi>and</hi> Accidens.</head>
+               <div type="section">
+                  <head>
+                     <hi>Of the</hi> Genus, <hi>or</hi> Gender.</head>
+                  <p>THe <hi>Genus</hi> is a Term that contains many things differing in Kind; as <hi>Beauty</hi> is a chief and univerſal <hi>Genus,</hi> which comprehends within it ſelf all kinds of <hi>Beauty;</hi> as well thoſe that appertain to the Soul, as thoſe which are annexed to the Body, as you may ſee in the Diviſion before mentioned.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Of the</hi> Species <hi>or</hi> Kind.</head>
+                  <p>THe <hi>Species</hi> ought to be conſidered two ways: the former reſpects the <hi>Genus</hi> that over-rules it, and the latter the <hi>Individuals</hi> that are ſubjected there<g ref="char:EOLhyphen"/>unto; inſomuch that to give it a true
+<pb n="57" facs="tcp:152590:37"/>Definition, you muſt ſay, It is a nature compris'd under the <hi>Genus,</hi> which com<g ref="char:EOLhyphen"/>prehends within it ſelf ſeveral <hi>Individuals.</hi> As for inſtance, The comely Stature is a <hi>Species,</hi> that falls under the <hi>ſummum Ge<g ref="char:EOLhyphen"/>nus</hi> of <hi>Beauty,</hi> and which may be commu<g ref="char:EOLhyphen"/>nicated to ſeveral diſtinct Perſons, and yet no neceſſity that they be endowed with all other <hi>Beauties;</hi> for one Perſon may have excellent Eyes, that hath no good Mouth; and ſhe may be of a good Stature, that hath a very deformed Look.</p>
+                  <lg>
+                     <l>
+                        <hi>Men in their Walks frequently do</hi>
+                     </l>
+                     <l>
+                        <hi>'Oretake one ſingle Lady or two,</hi>
+                     </l>
+                     <l>
+                        <hi>Whoſe comly Stature and Majeſtick grace</hi>
+                     </l>
+                     <l>
+                        <hi>Makes them deſire much to ſee their Face.</hi>
+                     </l>
+                     <l>
+                        <hi>Yet they a Lady ſeldom meet</hi>
+                     </l>
+                     <l>
+                        <hi>That is in every thing complete.</hi>
+                     </l>
+                  </lg>
+                  <p>There are ſome ſorts of <hi>Species</hi> that may ſometimes admit of the name of the <hi>Genus;</hi> becauſe they contain ſeveral o<g ref="char:EOLhyphen"/>ther <hi>Species,</hi> though contain'd under a <hi>ſummum Genus.</hi> There are others that
+<pb n="58" facs="tcp:152590:38"/>are very particular, altogether made up of <hi>Individuals;</hi> but becauſe they help to complete the <hi>Species,</hi> 'twill not be amiſs to explain what <hi>Individuals</hi> are. The <hi>Individuum</hi> is properly a Subject diſtinct from all other, which cannot be divided without being deſtroyed. Thus <hi>Phillis</hi> is ſeparated from <hi>Aminta,</hi> and they be<g ref="char:EOLhyphen"/>tween them both have nothing in com<g ref="char:EOLhyphen"/>mon, though they both of them have the ſame <hi>Species</hi> of <hi>Beauty.</hi> I my ſelf that am communicated to every Being in Na<g ref="char:EOLhyphen"/>ture, that am a <hi>ſummum Genus,</hi> under which are contained an infinite number of <hi>Loves,</hi> yet I ceaſe not to be an <hi>Indi<g ref="char:EOLhyphen"/>viduum;</hi> not but that a fair Lady may beſtow me upon many at once, but ſhe can never receive me but from one ſingle Perſon. When I make a <hi>Lover</hi> affect any Perſon, it is in vain for others to pretend to find room in his heart, unleſs he expels the firſt Object: and the Spirit of man, though of ſo large a capacity as to be able to comprehend the whole World, cannot <hi>love</hi> two different Per<g ref="char:EOLhyphen"/>ſons with one and the ſame affection, at
+<pb n="59" facs="tcp:152590:38"/>one and the ſame time. So that I cannot divide my ſelf but I muſt be ruin'd: yet I can eaſily unite two Hearts with ſo ſtrong a tie, that they will ſeem to be but one, provided they be of a different Sex. For as to thoſe obligations between Man and Man, which they call Friend<g ref="char:EOLhyphen"/>ſhip, they are ſo weak, that the ſmalleſt inconſiderable Intereſt in the World is able to cancel them.</p>
+                  <lg>
+                     <l>
+                        <hi>When</hi> Thyrſis Amarantha <hi>lov's, you find</hi>
+                     </l>
+                     <l>
+                        <hi>His heart's ſo link't with hers, I being come;</hi>
+                     </l>
+                     <l>
+                        <hi>That of the</hi> Lover <hi>and his</hi> Love <hi>ſo kind,</hi>
+                     </l>
+                     <l>
+                        <hi>I only make one</hi> Individuum.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Of</hi> Difference.</head>
+                  <p>
+                     <hi>DIfference</hi> is a Word, by which we underſtand all the diſtinct parts of a <hi>Subject,</hi> as well in regard of the <hi>Genus</hi> as the <hi>Species</hi> and <hi>Proprium.</hi> As for inſtance when they ask me, What is a Woman? <hi>I</hi> anſwer, ſhe is an amiable Creature,
+<pb n="60" facs="tcp:152590:39"/>who by her external form, which is <hi>Beauty,</hi> differs eſſentially from Man; and ſo of the other <hi>Differences,</hi> which it is not convenient to mention here.</p>
+                  <lg>
+                     <l>
+                        <hi>If I into this Deep ſhould farther wade,</hi>
+                     </l>
+                     <l>
+                        <hi>The true diſtinctions give you that are made</hi>
+                     </l>
+                     <l>
+                        <hi>Between the</hi> Lover <hi>and his</hi> Miſtris <hi>I,</hi>
+                     </l>
+                     <l>
+                        <hi>I fear ſhould ſpoil my amorous Myſtery,</hi>
+                     </l>
+                     <l>
+                        <hi>And thoſe things which in me moſt charming are;</hi>
+                     </l>
+                     <l>
+                        <hi>Therefore 'tis better to be ſilent far.</hi>
+                     </l>
+                  </lg>
+                  <p>I will content my ſelf with acquainting you, that I ow my being to that diſtincti<g ref="char:EOLhyphen"/>on of both Sexes: and there is a certain Lady known by the name of <hi>Modeſty,</hi> who commands me to inſtruct you no farther in this ſubject; therefore I leave you to gueſs at the reſt.</p>
+                  <p>
+                     <hi>Differences</hi> are of ſeveral kinds; but the greateſt of all is, when two Perſons meet in two contrary <hi>Predicaments,</hi> as when <hi>Climene</hi> is in the Category of <hi>Beau<g ref="char:EOLhyphen"/>ty,</hi> and <hi>Calliſto</hi> in that of <hi>Deformity.</hi> When <hi>Thyrſis</hi> is in that of <hi>Riches,</hi> and <hi>Silvander</hi> in that of <hi>Poverty</hi>
+                  </p>
+                  <pb n="61" facs="tcp:152590:39"/>
+                  <p> The eſſential <hi>Difference</hi> is between <hi>ſubjects</hi> that differ in nature, as <hi>Thyrſis</hi> and <hi>Climene,</hi> the accidental in perſons that differ only by accident, as in that which is met with between <hi>Thyrſis</hi> and <hi>Silvan<g ref="char:EOLhyphen"/>der,</hi> 'tis by this that the ſame Individual perſon may differ from it ſelf, by reaſon of the various Accidents that may hap<g ref="char:EOLhyphen"/>pen, being quite another thing in <hi>Plenty</hi> than what he is in want, and in <hi>Youth</hi> than in <hi>Old-age.</hi>
+                  </p>
+                  <p>Beſides I have ſeveral other <hi>Differences</hi> which beſtow as many ſeveral names upon me.</p>
+                  <lg>
+                     <l>
+                        <hi>I am both conſtant and inconſtant</hi> Love,</l>
+                     <l>
+                        <hi>Sometimes I'me fond, and ſometimes lively prove;</hi>
+                     </l>
+                     <l>
+                        <hi>Yet above all things</hi> Youth <hi>I moſt affect,</hi>
+                     </l>
+                     <l>
+                        <hi>And nothing ſo much as</hi> Old-age <hi>neglect.</hi>
+                     </l>
+                  </lg>
+                  <p>They that think they have cauſe to ex<g ref="char:EOLhyphen"/>claim againſt me, call me Tyrant <hi>Love;</hi> but they injure me by that Title; for I never force any one to love againſt his Will. 'Tis certain that I treat not all
+<pb n="62" facs="tcp:152590:40"/>my Subjects alike, and that I have always a certain number of Favourites: but they that are not in this Catalogue, muſt com<g ref="char:EOLhyphen"/>plain againſt Nature that hath denied them thoſe qualities that are capable of creating <hi>love.</hi> But you will ſay Natures Maſterpieces for <hi>Beauty</hi> put up their com<g ref="char:EOLhyphen"/>plaints againſt me as well as others; To which I anſwer, moſt men cry out, be<g ref="char:EOLhyphen"/>fore they are hurt, and to convince them I do them more good than injury. I find they are ſo infinitely pleas'd with the torments I expoſe them too, that they would not for all the good in the World be exempted from them; beſides when I find that they are too ſeverely handled by a Lady.</p>
+                  <lg>
+                     <l>
+                        <hi>I freely give them liberty to choſe</hi>
+                     </l>
+                     <l>
+                        <hi>A ſecond Beauty and the firſt refuſe;</hi>
+                     </l>
+                     <l>
+                        <hi>But when their Souls are ſubject unto all</hi>
+                     </l>
+                     <l>
+                        <hi>The Statutes of a God they</hi> Hymen <hi>call;</hi>
+                     </l>
+                     <l>
+                        <hi>Then ther's an alteration in the caſe,</hi>
+                     </l>
+                     <l>
+                        <hi>And we can't long cohabit in one place.</hi>
+                     </l>
+                  </lg>
+                  <p>'Tis him that you may juſtly call Ty<g ref="char:EOLhyphen"/>rant;
+<pb n="63" facs="tcp:152590:40"/>for when he hath brought two hearts under Subjection, death only can affranchiſe them. He and I cannot agree, he pretends a right of Command over me, and I am unskill'd in Obedience; He would fetter me, and I enchain o<g ref="char:EOLhyphen"/>thers, and he endeavours to clip my Wings, which is my greateſt beauty; not but that we agree ſometimes, and act together by conſent; for he frequent<g ref="char:EOLhyphen"/>ly ſtands in need of my aſſiſtance; yet I ſeldom give him admiſſion into any place, but I my ſelf am ſoon turn'd out.</p>
+                  <p>Of all the <hi>Differences</hi> I am capable of receiving, I am never more taking than when I am a Gallant <hi>Lover.</hi>
+                  </p>
+                  <lg>
+                     <l>
+                        <hi>I'me civil, pleaſant, complemental, mild,</hi>
+                     </l>
+                     <l>
+                        <hi>And Sonnets can compoſe, although a Child,</hi>
+                     </l>
+                     <l>
+                        <hi>Underſtand Preſents, and the Art to pleaſe,</hi>
+                     </l>
+                     <l>
+                        <hi>And all my Projects act with ſo much eaſe,</hi>
+                     </l>
+                     <l>
+                        <hi>That the moſt ſtubborn and obdurate heart</hi>
+                     </l>
+                     <l>
+                        <hi>Cannot avoid the bearing of a part</hi>
+                     </l>
+                     <l>
+                        <hi>In all my cares, and will at laſt confeſs,</hi>
+                     </l>
+                     <l>
+                        <hi>He cannot choſe but ſhew ſome tenderneſs.</hi>
+                     </l>
+                  </lg>
+                  <pb n="64" facs="tcp:152590:41"/>
+                  <p> But to explane my <hi>Differences</hi> to you, is not ſufficient to make you underſtand my Nature, I muſt alſo teach you my <hi>Properties.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Of</hi> Proprium <hi>or</hi> Properties.</head>
+                  <p>
+                     <hi>PRoperty</hi> is that which eſſentially agrees with the nature of every thing; as it is the <hi>Property</hi> of <hi>Beauty</hi> to produce Me, and it is My <hi>Property</hi> to make <hi>Beauty</hi> be<g ref="char:EOLhyphen"/>lov'd: not but that I can ſubſiſt without her; but that only happens by chance, and virtue of ſome occult quality; yet the perſon that produceth Me, muſt have ſome kind of <hi>Beauty,</hi> though ſhe hath not all perfections in general; for elſe I am but ſhort-liv'd, <hi>Youth</hi> her ſelf though never ſo charming, were not capable of faſtning upon me if attended with <hi>De<g ref="char:EOLhyphen"/>formity.</hi> But as <hi>Beauty</hi> is rarely found without <hi>Youth,</hi> ſo you ſeldome encounter <hi>Youth</hi> but accompanied with ſome kind of <hi>Beauty.</hi>
+                  </p>
+                  <p>There are <hi>Properties</hi> that agree with
+<pb n="65" facs="tcp:152590:41"/>the <hi>Species,</hi> but not with all the <hi>Indivi<g ref="char:EOLhyphen"/>duals;</hi> as, <hi>Beauty</hi> is proper to Women, and yet <hi>Iris</hi> may be judg'd beautiful, though <hi>Climene</hi> may not be ſo accounted for the ſame thing.</p>
+                  <lg>
+                     <l>
+                        <hi>Each Female hath her proper Gifts, and ſhe</hi>
+                     </l>
+                     <l>
+                        <hi>May in her Category prove to be</hi>
+                     </l>
+                     <l>
+                        <hi>Belov'd proportionably more or leſs,</hi>
+                     </l>
+                     <l>
+                        <hi>And ſo in part ſhares of my happineſs:</hi>
+                     </l>
+                     <l>
+                        <hi>One phancies Wealth that ſhe may feed her vain</hi>
+                     </l>
+                     <l>
+                        <hi>Phantaſtick humour, th'other will be plain</hi>
+                     </l>
+                     <l>
+                        <hi>And free from affectation, thus you ſee</hi>
+                     </l>
+                     <l>
+                        <hi>Amidst this ſtrange and great variety</hi>
+                     </l>
+                     <l>
+                        <hi>One ſhuns me, and the other, that ſhe may</hi>
+                     </l>
+                     <l>
+                        <hi>In</hi> Beauty <hi>all her Sex ſurpaſs, doth pray.</hi>
+                     </l>
+                  </lg>
+                  <p>In effect Women have very different inclinations among them, and every one phancies ſome peculiar <hi>Property.</hi> This perſon will be proud of her <hi>Beauty,</hi> which conſiſts in the Symmetry of her face, the other will boaſt of her noble ſentiments and grandeur of her Soul; another deſires to be commended for the warbling notes
+<pb n="66" facs="tcp:152590:42"/>of her ſweet Voice; and another to hear the noble qualifications of her mind praiſed. 'Tis the ſame with men, for they value nothing at ſo high a rate, as that in which they believe themſelves ſin<g ref="char:EOLhyphen"/>gular, inſomuch that to pleaſe one ano<g ref="char:EOLhyphen"/>ther they muſt commend what is pecu<g ref="char:EOLhyphen"/>liar to them above all other qualifications whatſoever. <hi>E. g.</hi> If a man boaſts of the Nobility of his Anceſtors, you cannot lay a greater obligation upon him, than to entertain him frequently in diſcourſe about that Subject; becauſe he is per<g ref="char:EOLhyphen"/>ſwaded that honour is ſo appropriated to him, that it can belong to no other per<g ref="char:EOLhyphen"/>ſon. It is my cuſtome to produce this effect in every <hi>Individuum,</hi> to make them <hi>love</hi> that which is a part of their Being, and that which eſſentially agrees with their nature; which is the reaſon I am ſometimes call'd <hi>Self-love;</hi> and whilſt confin'd to one <hi>ſubject</hi> they may well ſtile me ſo; but aſſoon as I act externally, by uniting two <hi>individual</hi> perſons, I change my nature, then I cauſe the perſon <hi>loving</hi> to abandon his own Intereſt, and fol<g ref="char:EOLhyphen"/>low
+<pb n="67" facs="tcp:152590:42"/>that of the belov'd Object.</p>
+                  <p>'Tis by this mutual ſacrifice that their Souls ſeem to tranſplant themſelves that they may be reciprocally united and me<g ref="char:EOLhyphen"/>tamorphos'd. And this is the reaſon my Philoſophers maintain, that <hi>Love</hi> is more where it loves, than where it animates. I have a great many more <hi>Properties,</hi> but as they are almoſt all <hi>accidental,</hi> 'twill be ſufficient for my purpoſe to explain what an <hi>Accident</hi> is.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Of the</hi> Accidents.</head>
+                  <p>WE call all <hi>Circumſtances</hi> move<g ref="char:EOLhyphen"/>able or ſeparable from one <hi>ſubject,</hi> that may ſubſiſt, or not ſubſiſt, without the deſtruction of the <hi>ſubject, Accidents.</hi> As <hi>Wit</hi> and <hi>Valour</hi> are two <hi>Accidents</hi> which may, or may not be inherent in a Man, and yet he continue Man ſtill; ſince there are many men that live in <hi>ſlothfulneſs</hi> and <hi>ſtupidity.</hi>
+                  </p>
+                  <p>There are certain <hi>Accidents</hi> called in<g ref="char:EOLhyphen"/>ſeparable, becauſe they never ſeparate
+<pb n="68" facs="tcp:152590:43"/>ſelves from the perſon with whom they are connate; as thoſe four that I nam'd but now. There are ſome paſſant, which have but a certain prefix'd duration, as <hi>Youth:</hi> and ſome there are that may be loſt or gain'd, as <hi>Honours</hi> and <hi>Riches.</hi>
+                  </p>
+                  <p>
+                     <hi>Accidents</hi> are divided into three diffe<g ref="char:EOLhyphen"/>rent Claſſes, <hi>viz.</hi> Antecedent, Conco<g ref="char:EOLhyphen"/>mitant and Subſequent. The firſt uſher Me, and ſerve to perſwade that in all probability I ought to come into a place. The ſecond accompany Me, and are an infallible teſtimony, that I reſide there. The third lacquay Me, and make it appear, that I have been formerly there.</p>
+                  <p>My uſual Antecedent <hi>Accidents</hi> are Balls, Dancings, Comedies, Serenades, Banquetings, Feaſts and Walks as well by Courſing and Promenades, St <hi>Jameſes.</hi> Park, as in ſtately Country Apartments, Compliments, pleaſant Letters, Sonnets, Madrigals, Songs, and diminutive cares.</p>
+                  <p>My Concomitant are Sighs, Languiſh<g ref="char:EOLhyphen"/>ment, Tranſports, amorous Complaints, tender glances and paſſionate Stanzas
+<pb n="69" facs="tcp:152590:43"/>Some add Jealouſy, but ſhe is a Monſter that muſt be baniſhed as far as may be, for in the end ſhe may deſtroy Me as well as beget Me.</p>
+                  <p>The Subſequent are uſually deſire of Revenge, Ruptures and Revilings. The Maxims that we may draw from hence are theſe. The Antecedent ſuppos'd, the others probably follow. The Conco<g ref="char:EOLhyphen"/>mitant or Subſequent being granted, the Antecedent muſt of neceſſity pre<g ref="char:EOLhyphen"/>cede.</p>
+                  <p>There is another kind of <hi>Accident</hi> which is no more than an unexpected rencontre, as when a <hi>Lover</hi> meets with his Miſtreſs where he did not expect her.</p>
+                  <lg>
+                     <l>
+                        <hi>How pleaſant must this</hi> Accident <hi>needs be.</hi>
+                     </l>
+                     <l>
+                        <hi>If that alone he could embrace and ſee</hi>
+                     </l>
+                     <l>
+                        <hi>Th'adored object of his Soul; but then</hi>
+                     </l>
+                     <l>
+                        <hi>It is an</hi> Accident <hi>that's fatal, when</hi>
+                     </l>
+                     <l>
+                        <hi>He meets his Rival, there withal hee'l find</hi>
+                     </l>
+                     <l>
+                        <hi>Diſtracting Jealouſie that galls the mind,</hi>
+                     </l>
+                  </lg>
+                  <p>You ſee that this circumſtance alters the nature of the <hi>Accident,</hi> and makes that
+<pb n="70" facs="tcp:152590:44"/>very troubleſom which was at firſt very pleaſant: But if the preſence of his Mi<g ref="char:EOLhyphen"/>ſtreſs joyn'd with that of his Rival is but one ſad <hi>accident</hi> to him; the abſence of her whom he adores, is another and as inſupportable: this makes him ſend forth a thouſand vain Complaints, and a thouſand amorous regrets. 'Tis this that makes him call the Trees and Rocks to teſtifie the pains that he endures. There is an infinite number of other <hi>Accidents,</hi> which would be too long for my diſ<g ref="char:EOLhyphen"/>courſe, without which one may appre<g ref="char:EOLhyphen"/>hend what is moſt advantageous in my <hi>Logick;</hi> but now that we have examined all manner of conceptions under the title of <hi>Univerſals</hi> and <hi>Categories,</hi> it remains that I explain what uſe we muſt make of them in forming our amorous Diſpu<g ref="char:EOLhyphen"/>tations.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Of</hi> Propoſitions.</head>
+               <p>VVE call that a <hi>Propoſition</hi> which affirms or denies any thing;
+<pb n="71" facs="tcp:152590:44"/>as, <hi>Iris</hi> is fair. <hi>Thyrſis</hi> wants Wit.</p>
+               <p>Theſe <hi>Propoſitions</hi> or <hi>Enunciations</hi> are made up of two things; the one whereof is call'd the <hi>ſubject,</hi> the other the <hi>attribute;</hi> as in the firſt Propoſition, <hi>Iris</hi> is the <hi>ſubject,</hi> and <hi>Beauty</hi> the <hi>attribute.</hi>
+               </p>
+               <p>Where ever there is an affirmation or Negation, there is a <hi>Propoſition;</hi> though expreſſed in a ſingle word, as when a per<g ref="char:EOLhyphen"/>ſon ſaith, <hi>I love;</hi> this word ſignifies as much as if he ſhould ſay, <hi>I have an affection for ſome beautiful Lady;</hi> And when any one asks another the queſtion, Do you love <hi>Climene?</hi> If he anſwers, No. He makes a tacit <hi>Enunciation,</hi> which is as much as if he had ſaid, I do not love her.</p>
+               <p>To make a good Argument, the <hi>Pro<g ref="char:EOLhyphen"/>poſitions</hi> muſt have their utmoſt extent; that is, that there be no <hi>ſubintelligitur,</hi> nor any addition.</p>
+               <p>
+                  <hi>Propoſitions</hi> are Simple or Compound.</p>
+               <p>The Simple which are alſo call'd Ca<g ref="char:EOLhyphen"/>tegorical, are thoſe that ſimply affirm, or deny without any condition whatſo<g ref="char:EOLhyphen"/>ever; as,</p>
+               <lg>
+                  <pb n="72" facs="tcp:152590:45"/>
+                  <l>
+                     <hi>Every man hath a Spirit.</hi>
+                  </l>
+                  <l>
+                     <hi>Every woman is fair.</hi>
+                  </l>
+                  <l>Phillis <hi>is not young.</hi>
+                  </l>
+                  <l>Thyrſis <hi>is not gallant.</hi>
+                  </l>
+               </lg>
+               <p>Of theſe ſome are Univerſal, and o<g ref="char:EOLhyphen"/>thers Particular; the Univerſal have an <hi>all</hi> or <hi>none</hi> added to them; the Particular affirm or deny, not of all in general, but of one in particular.</p>
+               <p>The Compound <hi>Enunciations,</hi> are ei<g ref="char:EOLhyphen"/>ther Conditional or Diſjunct; the Con<g ref="char:EOLhyphen"/>ditional (and they are alſo call'd Hypo<g ref="char:EOLhyphen"/>thetical) have the additional <hi>if;</hi> as, If <hi>Climene</hi> be beautiful, ſhe will create love. This <hi>Enunciation</hi> is compounded of two things, the one is call'd Antecedent, and the other the Conſequent, ſometimes the one is Affirmative, and the other Nega<g ref="char:EOLhyphen"/>tive; as, If <hi>Climene</hi> be old, ſhe is no longer beautiful. If ſhe be beautiful, ſhe is not old. Or they are both Negatives; as, If ſhe be neither beautiful nor youth<g ref="char:EOLhyphen"/>ful, ſhe will never be belov'd.</p>
+               <p>The Disjunct <hi>Propoſitions</hi> are compos'd of contrary parts, the one whereof de<g ref="char:EOLhyphen"/>ſtroys the other; as, <hi>Phillis</hi> is handſome
+<pb n="73" facs="tcp:152590:45"/>or unhandſome; theſe <hi>Enunciations</hi> are not true, but when the parties are directly oppos'd one to the other; for if I ſhould ſay, <hi>Climene</hi> is Beautiful or Gallant, I may be deceived in both; for it is probable ſhe may be ill-carriag'd, and Deformed; ſome <hi>Propoſitions</hi> are call'd Indefinite, be<g ref="char:EOLhyphen"/>cauſe we cannot diſcern whether they are Univerſal, or particular: ſome add alſo the Neceſſary, Impoſſible and Contin<g ref="char:EOLhyphen"/>gent, which may or may not be. I omit the Contradictory, when the <hi>Subject</hi> and <hi>Predicate</hi> diſagree, as alſo the difference between Modal and Categorical <hi>Pro<g ref="char:EOLhyphen"/>poſitions,</hi> and ſeveral School-queſtions, which I have expell'd my Academy: for I hate nothing more than Litigiouſneſs, and make it my chief deſign to arrive at the Concluſion.</p>
+               <p>But before we come to explain what Argumentation is, and the way how to find out the fallacy of <hi>Sophiſmes,</hi> which is no other than a deceitful Argument, which always draws falſe Conſequences, being ſupported by a bad Principle, and which ſtrives to make counterfeit <hi>love</hi> to
+<pb n="74" facs="tcp:152590:46"/>be miſtaken for that which is real, we muſt firſt explain what is meant by <hi>De<g ref="char:EOLhyphen"/>finition.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Of</hi> Definition.</head>
+               <p>
+                  <hi>DEfinition</hi> is a ſuccinct Speech, which explanes the nature of the <hi>Subject</hi> in few words; as, My nature is almoſt in<g ref="char:EOLhyphen"/>comprehenſible and 'tis hard to give a <hi>Definition</hi> of me: however I will afford you ſome <hi>Definitions</hi> of my Subſiſtency.</p>
+               <p>If therefore they ask you, What <hi>Love</hi> is? You may anſwer, That it is a noble Paſſion produced in the heart of Man by the Sight of <hi>Beauty,</hi> and it is properly a deſire of what is beautiful. But becauſe it may be objected, that all perſons in whom I create <hi>love,</hi> are not beautiful, and that women themſelves phancy thoſe that have nothing of comlineſs in them. I ſay that I am an ardent deſire of uniting and transforming My ſelf into the object that gave me birth. This <hi>Definition</hi> is more perfect than the former, becauſe it
+<pb facs="tcp:152590:46"/>comprehends as well the <hi>Love</hi> which pro<g ref="char:EOLhyphen"/>ceeds from Sympathy, as that which is caus'd by Beauty; and generally all ſorts of <hi>love,</hi> for there are none of what nature ſoever, though occaſioned by Deformity, which deſire not this Transformation into the perſon belov'd. But as they that <hi>love</hi> make inquiſition after an impoſſible thing, ſo their deſires can have no plenary ſatisfaction. The want of this cauſeth their pains; but theſe are never unac<g ref="char:EOLhyphen"/>companied with delight.</p>
+               <p>The <hi>Definition</hi> of my Being ſerves to diſcover my Properties, and not to take the counterfeit and diſguis'd for real <hi>love:</hi> thence are drawn the moſt powerful and convincing Arguments, to prove or diſ<g ref="char:EOLhyphen"/>prove the queſtion propos'd: to make an advantage of it, I muſt eſtabliſh this as a Canon, with whomſoever the <hi>Defi<g ref="char:EOLhyphen"/>nition</hi> agrees, ſo doth the <hi>Definitum</hi> like<g ref="char:EOLhyphen"/>wiſe, and reciprocally. With whomſo<g ref="char:EOLhyphen"/>ever the <hi>Definitum,</hi> the <hi>Definition</hi> doth alſo agree.</p>
+            </div>
+            <div type="part">
+               <pb n="76" facs="tcp:152590:47"/>
+               <head>
+                  <hi>Of</hi> Diviſion.</head>
+               <p>
+                  <hi>DIviſion</hi> is compris'd under <hi>Definition,</hi> which is no other than the Anato<g ref="char:EOLhyphen"/>my, or Diſſection of the parts of every <hi>Compoſitum.</hi> There are ſeveral ſorts of <hi>Diviſions,</hi> for ſometimes they divide the <hi>Genus</hi> into its <hi>Species,</hi> ſometimes the Whole into its Parts, and ſometimes the <hi>Subject</hi> into its <hi>Accidents,</hi> or an <hi>Accident</hi> into divers <hi>Subjects.</hi>
+               </p>
+               <p>Firſt, the <hi>Genus</hi> is divided into its <hi>Spe<g ref="char:EOLhyphen"/>cies;</hi> as <hi>Beauty</hi> into the luſtre of the Complexion, the ſymmetry of Propor<g ref="char:EOLhyphen"/>tion, and that of the Stature: it may be again divided into its parts, by examining the Eyes, Mouth, Teeth and the reſt. The <hi>Subject</hi> is divided into ſeveral <hi>Acci<g ref="char:EOLhyphen"/>dents,</hi> when Women are diſtinguiſhed by Old and Young, Gallant and Ill<g ref="char:EOLhyphen"/>bred; the Men by Poor and Rich, Dull and Spritely: or an <hi>Accident</hi> is divided into other Accidents, as when Spirits are divided into Serious and Jovial. Some<g ref="char:EOLhyphen"/>times
+<pb n="77" facs="tcp:152590:47"/>alſo <hi>Accidents</hi> are divided into di<g ref="char:EOLhyphen"/>vers <hi>Subjects,</hi> as when <hi>Youth</hi> is divided</p>
+               <lg>
+                  <l>
+                     <hi>In</hi> Iris <hi>as well as in</hi> Licidas,</l>
+                  <l>
+                     <hi>In</hi> Climene <hi>and Amarantha, as</hi>
+                  </l>
+                  <l>
+                     <hi>In</hi> Thircis <hi>and in</hi> Cloris, <hi>in her too</hi>
+                  </l>
+                  <l>
+                     <hi>That courted is, as in him that doth woo.</hi>
+                  </l>
+               </lg>
+               <p>A good <hi>Diviſion</hi> muſt have but few parts, and if poſſible but two, and thoſe oppoſite, as when Women are divided into Fair and Fowl; but that is not al<g ref="char:EOLhyphen"/>ways faiſible, for you will ſometimes find, that ſome do participate of hand<g ref="char:EOLhyphen"/>ſomneſs and unhandſomneſs, Youth and Age: farthermore a <hi>Diviſion</hi> muſt have nothing ſuperfluous nor deficient: for if one ſhould ſay, that <hi>Beauty</hi> conſiſts in the Stature, Hair, Colour and clearneſs of the Complexion, there would be ſome<g ref="char:EOLhyphen"/>what wanting in the <hi>Diviſion,</hi> and ſome<g ref="char:EOLhyphen"/>what abounding by omitting many things that are neceſſary, and that we might place clearneſs of complexion which is compris'd therein, under the comlineſs of the Complexion. My <hi>Accidents</hi> may
+<pb n="78" facs="tcp:152590:48"/>without difficulty admit of a <hi>Diviſion,</hi> but my <hi>Subſtance</hi> is indiviſible, as I have ſaid elſewhere.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Of the</hi> Syllogiſm.</head>
+               <p>A <hi>Syllogiſm</hi> is an Argument made up of three <hi>Propoſitions;</hi> one whereof concludes the other two. The firſt is call'd the <hi>Major,</hi> the ſecond the <hi>Minor,</hi> and the third the <hi>Concluſion</hi> or <hi>Conſequence</hi> Example,</p>
+               <p>
+                  <hi>Major,</hi> Every man loves Beauty.</p>
+               <p>
+                  <hi>Minor,</hi> The young <hi>Thirſys</hi> is a man.</p>
+               <p>
+                  <hi>Concluſion, Ergo,</hi> he loves Beauty.</p>
+               <p>A <hi>Syllogiſm</hi> ought to be compos'd of a <hi>Major</hi> that is affirmative or negative univerſally, and of a <hi>Minor</hi> affirmative or negative particularly, and in the <hi>Major,</hi> of the foregoing <hi>Syllogiſm,</hi> the word <hi>Eve<g ref="char:EOLhyphen"/>ry</hi> is a term that makes the <hi>Propoſition</hi> univerſal; the <hi>Minor</hi> is particular be<g ref="char:EOLhyphen"/>cauſe <hi>Thyrſis</hi> is an <hi>Individuum,</hi> that hath
+<pb n="79" facs="tcp:152590:48"/>nothing common with other men, an Example of the Argument Univerſally, Negative</p>
+               <lg>
+                  <head>Major,</head>
+                  <l>We can't commend the Eyes deformity,</l>
+               </lg>
+               <lg>
+                  <head>Minor,</head>
+                  <l>And yet in <hi>Iris</hi> nothing elſe we ſee,</l>
+               </lg>
+               <lg>
+                  <head>Concluſion,</head>
+                  <l>Then <hi>Iris</hi> cannot amiable be.</l>
+               </lg>
+               <p>All Arguments or <hi>Syllogiſmes</hi> are re<g ref="char:EOLhyphen"/>duced to three particular kinds, <hi>viz.</hi> In<g ref="char:EOLhyphen"/>fallible, Topical otherwiſe call'd Proba<g ref="char:EOLhyphen"/>ble, and Sophiſtical. The Infallible <hi>Syl<g ref="char:EOLhyphen"/>logiſm</hi> is that which is prov'd by Demon<g ref="char:EOLhyphen"/>ſtration, as when I ſay,</p>
+               <lg>
+                  <head>Major,</head>
+                  <l>
+                     <hi>All men that feel the flames which I inſpire</hi>
+                  </l>
+                  <l>
+                     <hi>The object of their Martyrdom deſire:</hi>
+                  </l>
+                  <l>
+                     <hi>And conſtantly complain</hi>
+                  </l>
+                  <l>
+                     <hi>Of this their amorous pain.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Minor,</head>
+                  <l>Thircis <hi>near</hi> Climene <hi>will ſtill be ſure</hi>
+                  </l>
+                  <l>
+                     <hi>To tell the pains he for her doth endure,</hi>
+                  </l>
+                  <l>
+                     <hi>And by degrees ſtill follows her you ſee.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Concluſion,</head>
+                  <l>
+                     <hi>Then</hi> Thircis <hi>doth adore his</hi> Climene.</l>
+               </lg>
+               <pb n="80" facs="tcp:152590:49"/>
+               <p> This <hi>Conſequence</hi> cannot be denied, the two antecedent <hi>Propoſitions</hi> being a<g ref="char:EOLhyphen"/>greed upon.</p>
+               <p>The ſecond ſort, which they call Pro<g ref="char:EOLhyphen"/>bable, is where opinions are divided, and they muſt diſpute upon them <hi>pro</hi> and <hi>contra,</hi> becauſe they may both be, and not be. Example,</p>
+               <p>
+                  <hi>Major,</hi> Beauty in younger years we often find.</p>
+               <p>
+                  <hi>Minor, Licidas</hi> lov's a Miſtriſs that is young</p>
+               <p>
+                  <hi>Concluſion,</hi> Then ſhe it is doth captivate his mind.</p>
+               <p>In this Argument the <hi>conſequence</hi> is not abſolutely neceſſary, becauſe there are many young perſons that are not hand<g ref="char:EOLhyphen"/>ſome, but as there are a greater number of more lovely perſons among thoſe that are young than thoſe that are old, this is call'd a Probable Argument, that is ca<g ref="char:EOLhyphen"/>pable of proof.</p>
+               <p>The third ſort which they call Sophi<g ref="char:EOLhyphen"/>ſtical, is when one of the <hi>Propoſitions</hi> is not univerſally true, ſo it paſſeth without examination.</p>
+            </div>
+            <div type="part">
+               <pb n="81" facs="tcp:152590:49"/>
+               <head>Sophiſm.</head>
+               <p>
+                  <hi>Major,</hi> Love without Wealth ne're makes a happy ſtate;</p>
+               <p>
+                  <hi>Minor,</hi> Old <hi>Amarillis</hi> hath a good eſtate;</p>
+               <p>
+                  <hi>Concluſion,</hi> Then ſhe muſt courted be, ſince for<g ref="char:EOLhyphen"/>tunate.</p>
+               <p>The fallacy of this Argument muſt be diſcover'd by the <hi>Major,</hi> which ought not to paſs unexamin'd; for although wealth contributes much to the well-fare of the <hi>Lover,</hi> that is, not ſolely capable of doing it; you muſt therefore diſtinguiſh this <hi>Major,</hi> and ſay, if any perſon happens to court this rich old woman,</p>
+               <lg>
+                  <l>
+                     <hi>He is a Lover of her gold,</hi>
+                  </l>
+                  <l>
+                     <hi>But enemy to her, 'cauſe old.</hi>
+                  </l>
+               </lg>
+               <p>Whence I conclude, that the <hi>Major</hi> muſt be univerſally true, affirmatively or negatively, if you would have the <hi>Conſe<g ref="char:EOLhyphen"/>quence</hi> ſo.</p>
+               <pb n="82" facs="tcp:152590:50"/>
+               <p> 
+                  <hi>Sophiſmes</hi> may alſo erre in the <hi>Minor;</hi> as in this.</p>
+               <lg>
+                  <head>Major,</head>
+                  <l>
+                     <hi>Proper to beasts 'tis only ſaid,</hi>
+                  </l>
+                  <l>
+                     <hi>To wear two horns upon the head.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Minor,</head>
+                  <l>Iris <hi>and</hi> Climene <hi>don't ſcorn</hi>
+                  </l>
+                  <l>
+                     <hi>To make their husbands wear the born.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Concluſion,</head>
+                  <l>
+                     <hi>Then their two Husbands are two Beasts.</hi>
+                  </l>
+               </lg>
+               <p>If ever any one propoſeth this Argu<g ref="char:EOLhyphen"/>ment to you, and that you take the defence upon you as a party concern'd, you have no more to do, but ſtoutly to deny the <hi>Minor;</hi> for if you were the greateſt Cuc<g ref="char:EOLhyphen"/>kold in the World, it were a very hard task to prove it by Demonſtration, pro<g ref="char:EOLhyphen"/>vided they did not graft horns upon your head in your own preſence; in ſuch a caſe 'tis beyond diſpute.</p>
+               <p>Every <hi>Sophiſm</hi> is defective either in the form or matter; in the form, when the rules are not obſerved: in the matter when one or both Propoſitions are falſe in part, or in the whole: if it erre i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the form, you muſt rectify it according <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="83" facs="tcp:152590:50"/>the rules; if in the matter, you muſt deny the falſe Propoſition, and if it be but in part, you muſt diſtinguiſh.</p>
+               <p>The end of <hi>Sophiſtry</hi> is to teach how to deceive, and not to be deceiv'd.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Of the</hi> Enthymeme.</head>
+               <p>THe <hi>Enthymeme</hi> is an Argument, from which they cut off one Pro<g ref="char:EOLhyphen"/>poſition, either to abridge or ſurprize: to abridge; as,
+<q>
+                     <l>Phillis <hi>young, fortunate and fair doth prove,</hi>
+                     </l>
+                     <l>
+                        <hi>And therefore with her</hi> Thircis <hi>is in love.</hi>
+                     </l>
+                  </q> Another example,
+<q>
+                     <l>
+                        <hi>Love is all charms, and therefore we</hi>
+                     </l>
+                     <l>
+                        <hi>Muſt all reſolve in love to be.</hi>
+                     </l>
+                  </q> To deceive, when
+<q>
+                     <l>Amaranth's <hi>riches ſhort of</hi> Climen's <hi>are,</hi>
+                     </l>
+                     <l>
+                        <hi>Therefore ſhe's of the two more taking far.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>In this kind of Argument the moſt im<g ref="char:EOLhyphen"/>perfect <hi>Propoſition</hi> is artificially ſuppreſt, as in this the <hi>Major</hi> is, which is not uni<g ref="char:EOLhyphen"/>verſally true, as I have already obſerved in the firſt example of <hi>Sophiſms.</hi>
+               </p>
+               <pb n="84" facs="tcp:152590:51"/>
+               <p> In this Argument the <hi>Concluſion</hi> is ſom<g ref="char:EOLhyphen"/>times firſt placed to render the diſcourſe more polite.</p>
+               <q>
+                  <l>
+                     <hi>Young</hi> Iris <hi>is in love they ſay,</hi>
+                  </l>
+                  <l>
+                     <hi>Becauſe ſhe watcheth night and day.</hi>
+                  </l>
+               </q>
+               <p>Sometimes I argue from the <hi>Major</hi> to the <hi>Minor;</hi>
+                  <q>
+                     <l>
+                        <hi>All living ſouls do feel my inſpir'd flame:</hi>
+                     </l>
+                     <l>
+                        <hi>Then</hi> Iris <hi>too one day will do the ſame.</hi>
+                     </l>
+                  </q> From the <hi>Minor</hi> to the <hi>Major;</hi>
+                  <q>
+                     <l>Iris <hi>is ſubject to my Laws and me,</hi>
+                     </l>
+                     <l>
+                        <hi>And ſo all other perſons too ſhall be.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>You may argue from like to like; as,
+<q>
+                     <l>
+                        <hi>Happy was</hi> Celadon <hi>in Aſtraeas love,</hi>
+                     </l>
+                     <l>
+                        <hi>Then may another Shepherd happy prove.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>There is an infinite number of other Arguments, which I omit, judging them unneceſſary for my Subject.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Of the</hi> Dilemma.</head>
+               <p>THe <hi>Dilemma</hi> is an Argument or <hi>Syllogiſm,</hi> whoſe <hi>Major</hi> is compo<g ref="char:EOLhyphen"/>ſed of two <hi>Propoſitions,</hi> the one whereof you muſt make choice of; ſo that on
+<pb n="85" facs="tcp:152590:51"/>which ſide ſoever you engage, you will be always ſurpriz'd; as to prove that a man muſt never marry, thus they argue;
+<q>
+                     <l>
+                        <hi>If you a fair Wife chance to wed,</hi>
+                     </l>
+                     <l>
+                        <hi>Shee'l prove a pain unto your head:</hi>
+                     </l>
+                     <l>
+                        <hi>And if you marry one that's fowl,</hi>
+                     </l>
+                     <l>
+                        <hi>Shee'l be a torment to your ſoul.</hi>
+                     </l>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Obſervations upon all</hi> amorous Arguments.</head>
+               <lg>
+                  <l>
+                     <hi>All</hi> Syllogiſms <hi>and</hi> Dilemmas <hi>too,</hi>
+                  </l>
+                  <l>
+                     <hi>All</hi> Sophiſms <hi>and</hi> Enthymems <hi>that do</hi>
+                  </l>
+                  <l>
+                     <hi>Prove uſeful to a</hi> Lover, <hi>the intent</hi>
+                  </l>
+                  <l>
+                     <hi>No other is in any argument:</hi>
+                  </l>
+                  <l>
+                     <hi>But to convince their</hi> Ladies, <hi>and to prove</hi>
+                  </l>
+                  <l>
+                     <hi>The</hi> paſſion <hi>that they have for them, their</hi> Love.</l>
+               </lg>
+               <p>When a perſon hath perwaded a Lady by ſtrong arguments that he loves, then there is a ſtrong inclination in the party to make himſelf belov'd; but theſe kind of Declarations are ſeldom made by <hi>Syllogiſms</hi> in <hi>Mood</hi> and <hi>Figure,</hi> nor do
+<pb n="86" facs="tcp:152590:52"/>they ſo ſpeedily perſwade as a confuſed and disjoynted diſcourſe; upon ſuch oc<g ref="char:EOLhyphen"/>caſions as theſe the <hi>Lover</hi> muſt lay aſide all regular Laws of <hi>Logick,</hi> and when he is unwilling to amuſe himſelf in ratioci<g ref="char:EOLhyphen"/>nation, he muſt endeavour to bring them to a belief, that he hath loſt his reaſon. Then muſt his Eyes be more eloquent than his Tongue, in expreſſing the com<g ref="char:EOLhyphen"/>motions and regret of his mind; and his ſighs be the Interpreters of his Deſire and Pain. Yet the <hi>Lover</hi> muſt not be always ſighing, for though Ladies underſtand that kind of Language ſufficiently, they almoſt all pretend ignorance of it. To the end therefore that you may be beyond all doubts, clear them all; and if the Lady will not underſtand the Language of your Eyes and Sighs, ſpeak and tell her freely what thoſe Sighs and thoſe Tears mean.</p>
+               <lg>
+                  <l>
+                     <hi>And then the</hi> Lover <hi>muſt his flames diſcloſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Not fearing to offend her; for ſuppoſe</hi>
+                  </l>
+                  <l>
+                     <hi>That he by this ſincere Addreſs ſhould move</hi>
+                  </l>
+                  <l>
+                     <hi>Her anger and diſpleaſure, this will prove</hi>
+                  </l>
+                  <pb n="87" facs="tcp:152590:52"/>
+                  <l>
+                     <hi>Of no continuance, but ſuch as may</hi>
+                  </l>
+                  <l>
+                     <hi>Believe it, be by time ſoon wipt away;</hi>
+                  </l>
+                  <l>
+                     <hi>And that he never could her favour win,</hi>
+                  </l>
+                  <l>
+                     <hi>But by committing of this venial Sin.</hi>
+                  </l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
